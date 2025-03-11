@@ -1,0 +1,74 @@
+{
+	"audioLoader": {
+		"yes": "Ja",
+		"no": "Nein",
+		"confirm": "Mit Ton?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP} %",
+		"RTPrange": "{@minRTP} % bis {@maxRTP} %"
+	},
+	"title": "Happy Hatching",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Spielanleitung",
+			"payTable": "Was kann man gewinnen?",
+			"price": "Einsatz",
+			"stake": "Einsatz",
+			"balance": "Guthaben"
+		},
+		"Commercial": {
+			"howToPlay": "Spielanleitung",
+			"payTable": "Was kann man gewinnen?",
+			"price": "Einsatz",
+			"stake": "Einsatz",
+			"balance": "Guthaben"
+		},
+		"audio": {
+			"on": "An",
+			"off": "Aus",
+			"sound": "Ton"
+		}
+	},
+	"Game": {
+		"demo": "DEMO ",
+		"button_play": "PLAY",
+		"button_buy": "KAUFEN",
+		"button_try": "DEMO",
+		"button_continue": "WEITER",
+		"button_move2moneyGame": "KAUFEN",
+		"meter_wager": "Einsatz",
+		"wager": "EINSATZ",
+		"balance": "Balance",
+		"wins": "Gewinn",
+		"wins_demo": "Demo",
+		"button_autoPlay": "AUTOPLAY",
+		"button_stop": "STOPP",
+		"button_playAgain": "KAUFEN",
+		"button_MTMPlayAgain": "DEMO",
+		"message_nonWin": "Schade, kein Gewinn.",
+		"message_buyWin": "Glückwunsch!\nSie gewinnen",
+		"message_tryWin": "Ein Demospiel gibt keinen \nAnspruch auf Gewinn.",
+		"message_anonymous_tryWin": "Ein Demospiel gibt keinen \nAnspruch auf Gewinn.",
+		"message_close": "SCHLIESSEN",
+		"meter_division": " | ",
+		"button_exit": "BEENDEN",
+		"error_button_exit": "BEENDEN",
+		"warning_button_continue": "WEITER",
+		"warning_button_exitGame": "BEENDEN",
+		"warning_title": " ",
+		"error_title": "ERROR",
+		"win_up_to": "GEWINNEN SIE BIS ZU",
+		"tutorial_title": "SPIELANLEITUNG",
+		"tutorial": {
+		"tutorial_00": "Wählen Sie die Eier, und entdecken Sie die ”Gewinnnummern” und den Wert des Preises.",
+		"tutorial_01": "Wählen Sie die strickenden Hennen und entdecken Sie ”Ihre Nummern”.",
+		"tutorial_02": "Stimmen eine oder mehrere ”Ihrer Nummern” mit den ”Gewinnnummern” überein, gewinnen Sie den entsprechenden Betrag.",
+		"tutorial_03": "Entdecken Sie ein weißes Küken, gewinnen Sie den entsprechenden Betrag.",
+		"tutorial_04": "Finden Sie ein Küken mit der Angabe „2x“ oder „5x“? Dann gewinnen Sie so oft den entsprechenden Betrag!"
+		},
+		"your_number": "GEWINNNUMMERN",
+		"lucy_number": "IHRE NUMMERN",
+		"button_close": "X"
+	}
+}

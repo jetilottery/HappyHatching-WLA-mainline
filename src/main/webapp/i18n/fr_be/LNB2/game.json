@@ -1,0 +1,75 @@
+{
+	"audioLoader": {
+		"yes": "Oui",
+		"no": "Non",
+		"confirm": "Activer le son ?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "{@minRTP}% à {@maxRTP}%"
+
+	},
+	"title": "Happy Hatching",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Comment jouer ?",
+			"payTable": "Que peut-on gagner ?",
+			"price": "Mise",
+			"stake": "Mise",
+			"balance": "Crédit"
+		},
+		"Commercial": {
+			"howToPlay": "Comment jouer ?",
+			"payTable": "Que peut-on gagner ?",
+			"price": "Mise",
+			"stake": "Mise",
+			"balance": "Crédit"
+		},
+		"audio": {
+			"on": "Activé",
+			"off": "Désactivé",
+			"sound": "Son"
+		}
+	},
+	"Game": {
+		"demo": "DÉMO ",
+		"button_play": "PLAY",
+		"button_buy": "ACHETER",
+		"button_try": "DÉMO",
+		"button_continue": "CONTINUER",
+		"button_move2moneyGame": "ACHETER",
+		"meter_wager": "Mise",
+		"wager": "MISE",
+		"balance": "Balance",
+		"wins": "Gain",
+		"wins_demo": "Démo",
+		"button_autoPlay": "AUTOPLAY",
+		"button_stop": "ARRÊTER",
+		"button_playAgain": "ACHETER",
+		"button_MTMPlayAgain": "DÉMO",
+		"message_nonWin": "Dommage, pas de gain.",
+		"message_buyWin": "Bravo!\nVous gagnez",
+		"message_tryWin": "Une démo du jeu ne donne \ndroit à aucun gain.",
+		"message_anonymous_tryWin": "Une démo du jeu ne donne \ndroit à aucun gain.",
+		"message_close": "FERMER",
+		"meter_division": " | ",
+		"button_exit": "QUITTER",
+		"error_button_exit": "QUITTER",
+		"warning_button_continue": "CONTINUER",
+		"warning_button_exitGame": "QUITTER",
+		"warning_title": " ",
+		"error_title": "ERREUR",
+		"win_up_to": "GAGNEZ JUSQU’À",
+		"tutorial_title": "COMMENT JOUER ?",
+		"tutorial": {
+		"tutorial_00": "Sélectionnez les œufs pour découvrir \nles « Numéros gagnants » et la valeur du lot.",
+		"tutorial_01": "Sélectionnez les poules tricoteuses pour découvrir « Vos numéros ».",
+		"tutorial_02": "Si un ou plusieurs de « Vos numéros » \ncorrespond(ent) aux « Numéros gagnants », \nvous gagnez le montant correspondant.",
+		"tutorial_03": "Si vous découvrez un poussin blanc, vous gagnez le montant correspondant.",
+		"tutorial_04": "Vous découvrez un poussin portant la mention \n« 2x » ou « 5x » ? Dans ce cas, vous gagnez \nautant de fois le montant correspondant !"
+		},
+		"your_number": "NUMÉROS GAGNANTS",
+		"lucy_number": "VOS NUMÉROS",
+		"button_close": "X"
+	}
+}

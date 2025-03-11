@@ -1,0 +1,91 @@
+{
+  "version": "1-30-2018 11:40AM Happy Hatching de_default SM",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nein",
+    "confirm": "Möchten Sie den Ton einschalten?"
+  },
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "von {@minRTP} % bis {@maxRTP} %",
+    "hardMinRTP": "85,00",
+    "hardMaxRTP": "93,00",
+    "paybackTitle": "Erwartete Rückzahlungsinformationen",
+    "paybackBody": "Für dieses Spiel betragen die langfristig erwarteten Rückzahlungsinformationen {RTP}."
+  },
+  "title": "Happy Hatching",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Anleitung",
+      "payTable": "Gewinntabelle",
+      "price": "Preis",
+      "stake": "Einsatz",
+      "balance": "Guthaben"
+    },
+    "Commercial": {
+      "howToPlay": "Anleitung",
+      "payTable": "Auszahlungstabelle",
+      "price": "Preis",
+      "stake": "Einsatz",
+      "balance": "Guthaben"
+    },
+    "audio": {
+      "on": "An",
+      "off": "Aus",
+      "sound": "Ton"
+    }
+  },
+  "Game": {
+    "demo": "AUSPROBIEREN",
+    "button_play": "SPIELEN",
+    "button_buy": "KAUFEN",
+    "button_try": "AUSPROBIEREN",
+    "button_continue": "WEITER",
+    "button_move2moneyGame": "ZU ECHTGELD\nWECHSELN ",
+    "meter_wager": "Ticketpreis",
+    "wager": "TICKETPREIS",
+    "balance": "Guthaben",
+    "wins": "Gewinn",
+    "wins_demo": "Demo-Gewinn",
+    "button_autoPlay": "ALLE AUFDECKEN",
+    "button_stop": "STOP",
+    "button_playAgain": "ERNEUT SPIELEN",
+    "button_MTMPlayAgain": "ERNEUT PROBIEREN",
+    "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+    "message_buyWin": "GLÜCKWUNSCH!\nSie haben gewonnen:",
+    "message_tryWin": "VIELEN DANK FÜRS SPIELEN!\nSie hätten gewinnen können:",
+    "message_anonymous_tryWin": "VIELEN DANK FÜRS SPIELEN!\nSie hätten gewinnen können:",
+    "message_close": "OK",
+    "meter_division": " | ",
+    "button_exit": "ENDE",
+    "error_button_exit": "ENDE",
+    "warning_button_continue": "SPIELEN SIE\nWEITER",
+    "warning_button_exitGame": "ENDE",
+    "warning_title": "WARNUNG",
+    "error_title": "FEHLER",
+    "win_up_to": "GEWINNEN SIE BIS ZU",
+    "tutorial_title": "SPIELANLEITUNG",
+    "tutorial": {
+      "WLA": {
+        "tutorial_00": "Klicken/Tippen Sie auf die Eier, um kleine Küken aufzudecken, jedes mit einer IHRER ZAHLEN und einem Preiswert.",
+        "tutorial_01": "Klicken/Tippen Sie auf die Hennen, um gestrickte Pullover aufzudecken, jeder mit einer GLÜCKSZAHL.",
+        "tutorial_02": "Wenn eine IHRER ZAHLEN mit einer GLÜCKSZAHL übereinstimmt, gewinnen Sie den Preiswert IHRER ZAHL.",
+        "tutorial_03": "Wenn Sie ein Küken mit Sofortgewinn finden, gewinnen Sie den Preiswert des Sofortgewinns des Kükens.",
+        "tutorial_04": "Wenn Sie ein Küken mit einem 2x oder 5x finden, gewinnen Sie den 2- oder 5-fachen Gewinnwert des Kükens!"
+      },
+      "Commercial": {
+        "tutorial_00": "Wählen Sie jedes Ei aus, um Küken mit IHRER ZAHL und dem Preiswert aufzudecken.",
+        "tutorial_01": "Wählen Sie jede Henne aus, um einen Pullover mit einer GLÜCKSZAHL aufzudecken.",
+        "tutorial_02": "Wenn IHRE ZAHL mit einer GLÜCKSZAHL übereinstimmt, gewinnen Sie den Preiswert IHRER ZAHL.",
+        "tutorial_03": "Finden Sie ein Küken mit Sofortgewinn, um den Preiswert des Sofortgewinns des Kükens zu gewinnen.",
+        "tutorial_04": "Finden Sie ein Küken mit einem 2x oder 5x, um den 2- oder 5-fachen Gewinnwert des Kükens zu gewinnen!"
+      }
+    },
+    "your_number": "IHRE ZAHLEN",
+    "lucy_number": "GLÜCKSZAHLEN",
+    "buttonClose": "X",
+    "prizeLevel": "Preisstufe",
+    "prizeValue": "Preiswert",
+    "paytableWager": "Ticketpreis: "
+  }
+}

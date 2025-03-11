@@ -1,0 +1,112 @@
+{
+    "version": "1-30-2018 11:40AM Happy Hatching en_us_default SM",
+    "audioLoader":
+    {
+        "yes": "Taip",
+        "no": "Ne",
+        "confirm": "Ar norėtumėte, kad būtų leidžiamas garsas?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "{@minRTP}–{@maxRTP} %",
+        "hardMinRTP": "85.00",
+        "hardMaxRTP": "93.00",
+        "paybackTitle": "Numatoma grąža",
+        "paybackBody": "Šio žaidimo ilgalaikė teoriškai numatoma grąža yra {RTP}."
+    },
+    "title": "Laimingi Kiaušiniai",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Pagalbos puslapis",
+            "payTable": "Prizų lentelė",
+            "price": "Kaina",
+            "stake": "Statymas",
+            "balance": "Likutis",
+            "prizeDivision": "Prizų lygos",
+            "prizeValue": "Prizo vertė",
+            "approximatePrize": "Apytiksliai likę prizai",
+            "oddsPerPlay": "Žaidimo tikimybė",
+            "overAllOdds": "Per kiekvieną žaidimą galimybė laimėt prizą yra 1 iš {oddNum}",
+            "availablePrices": "Galimi kainų lygiai {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Pagalbos puslapis",
+            "payTable": "Priz lentelė",
+            "price": "Kaina",
+            "stake": "Statymas",
+            "balance": "Likutis"
+        },
+        "audio":
+        {
+            "on": "Įjungti",
+            "off": "Išjungti",
+            "sound": "Garsas"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Klaida 29000:\n\nĮvyko vidinė klaida. IŠEIKITE iš\nžaidimo ir paleiskite jį iš naujo."
+    },
+    "Game":
+    {
+        "demo": "BANDYTI",
+        "button_play": "ŽAISTI",
+        "button_buy": "ŽAISTI",
+        "button_try": "BANDYTI",
+        "button_continue": "TĘSTI",
+        "button_move2moneyGame": "PEREITI PRIE \nPINIGŲ ",
+        "meter_wager": "Bilieto kaina",
+        "wager": "BILIETO KAINA",
+        "balance": "Likutis",
+        "wins": "Laimėjimas",
+        "wins_demo": "Demonstracijos laimėjimas",
+        "button_autoPlay": "ATVERSTI VISKĄ",
+        "button_stop": "SUSTABDYTI",
+        "button_playAgain": "Žaisti dar kartą",
+        "button_MTMPlayAgain": "BANDYTI DAR KARTĄ",
+        "message_nonWin": "SĖKMĖS\nKITĄ KARTĄ",
+        "message_buyWin": "SVEIKINIMAI! LAIMĖJAI",
+        "message_tryWin": "BENDRAS DEMONSTRACIJOS LAIMĖJIMAS",
+        "message_anonymous_tryWin": "BENDRAS DEMONSTRACIJOS LAIMĖJIMAS",
+        "message_close": "Gerai",
+        "meter_division": " | ",
+        "button_exit": "IŠEITI",
+        "error_button_exit": "IŠEITI",
+        "warning_button_continue": "ŽAISTI \nTOLIAU",
+        "warning_button_exitGame": "IŠEITI",
+        "warning_title": "ĮSPĖJIMAS",
+        "error_title": "KLAIDA",
+        "win_up_to": "LAIMĖK IKI",
+        "exclamationMark": "!",
+        "tutorial_title": "KAIP ŽAISTI?",
+        "tutorial":
+        {
+            "WLA":
+            {
+                "tutorial_00": "Spausk ant kiaušinių ir atversk viščiukus su Tavo skaičiais ir prizais.",
+                "tutorial_01": "Spausk ant vištelių ir numegzk megztukus su Laimingais skaičiais.",
+                "tutorial_02": "Jeigu TAVO SKAIČIUS sutaps su LAIMINGU SKAIČIUMI laimėsi prizą.",
+                "tutorial_03": "Jeigu rasi baltos vištelės simbolį laimėsi momentinį prizą.",
+                "tutorial_04": "Jeigu rasi vištelės simbolį su daugikliu, padauginsi vištelės laimėjimą!"
+            },
+            "Commercial":
+            {
+                "tutorial_00": "Spausk ant kiaušinių ir atversk viščiukus su Tavo skaičiais ir prizais.",
+                "tutorial_01": "Spausk ant vištelių ir numegzk megztukus su Laimingais skaičiais.",
+                "tutorial_02": "Jeigu TAVO SKAIČIUS sutaps su LAIMINGU SKAIČIUMI laimėsi prizą.",
+                "tutorial_03": "Jeigu rasi baltos vištelės simbolį laimėsi momentinį prizą.",
+                "tutorial_04": "Jeigu rasi vištelės simbolį su daugikliu, padauginsi vištelės laimėjimą!"
+            }
+        },
+        "your_number": "TAVO SKAIČIAI",
+        "lucy_number": "LAIMINGI SKAIČIAI",
+        "buttonClose": "X",
+        "prizeLevel": "Prizo lygis",
+        "prizeValue": "Prizo vertė",
+        "paytableWager": "Bilieto kaina – "
+    }
+}

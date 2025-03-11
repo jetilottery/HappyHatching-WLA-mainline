@@ -1,0 +1,28 @@
+{"frames": {
+
+"winBoxErrorL.png":
+{
+	"frame": {"x":557,"y":1,"w":966,"h":554},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":966,"h":554},
+	"sourceSize": {"w":966,"h":554}
+},
+"winBoxErrorP.png":
+{
+	"frame": {"x":1,"y":1,"w":554,"h":966},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":554,"h":966},
+	"sourceSize": {"w":554,"h":966}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "winBoxError.png",
+	"format": "RGBA8888",
+	"size": {"w":1524,"h":968},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4209108b7ec13e2d674bca832bcd693b:d0f84cd0abc3d0915ccac23ba986a51e:f4a9839a53656c5a630ae40c444458ce$"
+}
+}

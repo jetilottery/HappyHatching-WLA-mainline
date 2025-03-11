@@ -1,0 +1,6404 @@
+{"frames": {
+
+"sweaterBody_0001.png":
+{
+	"frame": {"x":502,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0002.png":
+{
+	"frame": {"x":1,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0003.png":
+{
+	"frame": {"x":168,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0004.png":
+{
+	"frame": {"x":335,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0005.png":
+{
+	"frame": {"x":502,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0006.png":
+{
+	"frame": {"x":1,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0007.png":
+{
+	"frame": {"x":168,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0008.png":
+{
+	"frame": {"x":335,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0009.png":
+{
+	"frame": {"x":502,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0010.png":
+{
+	"frame": {"x":1,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0011.png":
+{
+	"frame": {"x":168,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0012.png":
+{
+	"frame": {"x":335,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0013.png":
+{
+	"frame": {"x":502,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0014.png":
+{
+	"frame": {"x":1,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0015.png":
+{
+	"frame": {"x":168,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0016.png":
+{
+	"frame": {"x":335,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0017.png":
+{
+	"frame": {"x":502,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0018.png":
+{
+	"frame": {"x":1,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0019.png":
+{
+	"frame": {"x":168,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0020.png":
+{
+	"frame": {"x":335,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBody_0021.png":
+{
+	"frame": {"x":502,"y":1,"w":165,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterBodyMatch.png":
+{
+	"frame": {"x":669,"y":1,"w":161,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":161,"h":154},
+	"sourceSize": {"w":165,"h":154}
+},
+"sweaterHand_0001.png":
+{
+	"frame": {"x":1112,"y":1,"w":121,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":121,"h":79},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0002.png":
+{
+	"frame": {"x":832,"y":1,"w":144,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":144,"h":73},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0003.png":
+{
+	"frame": {"x":978,"y":1,"w":132,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":132,"h":76},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0004.png":
+{
+	"frame": {"x":832,"y":76,"w":122,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":122,"h":78},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0005.png":
+{
+	"frame": {"x":1112,"y":1,"w":121,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":121,"h":79},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0006.png":
+{
+	"frame": {"x":832,"y":1,"w":144,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":144,"h":73},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0007.png":
+{
+	"frame": {"x":978,"y":1,"w":132,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":132,"h":76},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0008.png":
+{
+	"frame": {"x":832,"y":76,"w":122,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":122,"h":78},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0009.png":
+{
+	"frame": {"x":1112,"y":1,"w":121,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":121,"h":79},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0010.png":
+{
+	"frame": {"x":832,"y":1,"w":144,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":144,"h":73},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0011.png":
+{
+	"frame": {"x":978,"y":1,"w":132,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":132,"h":76},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0012.png":
+{
+	"frame": {"x":832,"y":76,"w":122,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":122,"h":78},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0013.png":
+{
+	"frame": {"x":1112,"y":1,"w":121,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":121,"h":79},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0014.png":
+{
+	"frame": {"x":832,"y":1,"w":144,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":144,"h":73},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0015.png":
+{
+	"frame": {"x":978,"y":1,"w":132,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":132,"h":76},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0016.png":
+{
+	"frame": {"x":832,"y":76,"w":122,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":122,"h":78},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0017.png":
+{
+	"frame": {"x":1112,"y":1,"w":121,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":121,"h":79},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0018.png":
+{
+	"frame": {"x":832,"y":1,"w":144,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":144,"h":73},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0019.png":
+{
+	"frame": {"x":978,"y":1,"w":132,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":132,"h":76},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0020.png":
+{
+	"frame": {"x":832,"y":76,"w":122,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":122,"h":78},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterHand_0021.png":
+{
+	"frame": {"x":1112,"y":1,"w":121,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":121,"h":79},
+	"sourceSize": {"w":146,"h":86}
+},
+"sweaterNO1_0001.png":
+{
+	"frame": {"x":1866,"y":1719,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0002.png":
+{
+	"frame": {"x":1604,"y":1684,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0003.png":
+{
+	"frame": {"x":1505,"y":1350,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0004.png":
+{
+	"frame": {"x":1079,"y":1317,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0005.png":
+{
+	"frame": {"x":1767,"y":1386,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0006.png":
+{
+	"frame": {"x":1078,"y":1980,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0007.png":
+{
+	"frame": {"x":630,"y":1842,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0008.png":
+{
+	"frame": {"x":91,"y":1982,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0009.png":
+{
+	"frame": {"x":809,"y":1532,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0010.png":
+{
+	"frame": {"x":361,"y":1791,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0011.png":
+{
+	"frame": {"x":1171,"y":1030,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0012.png":
+{
+	"frame": {"x":811,"y":967,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0013.png":
+{
+	"frame": {"x":451,"y":1273,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0014.png":
+{
+	"frame": {"x":1351,"y":1027,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0015.png":
+{
+	"frame": {"x":1531,"y":694,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0016.png":
+{
+	"frame": {"x":1171,"y":482,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0017.png":
+{
+	"frame": {"x":271,"y":831,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0018.png":
+{
+	"frame": {"x":1621,"y":694,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0019.png":
+{
+	"frame": {"x":1912,"y":245,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0020.png":
+{
+	"frame": {"x":181,"y":319,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO1_0021.png":
+{
+	"frame": {"x":1685,"y":1,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0001.png":
+{
+	"frame": {"x":1950,"y":1812,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0002.png":
+{
+	"frame": {"x":1602,"y":1792,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0003.png":
+{
+	"frame": {"x":1519,"y":1602,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0004.png":
+{
+	"frame": {"x":1157,"y":1449,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0005.png":
+{
+	"frame": {"x":1677,"y":1506,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0006.png":
+{
+	"frame": {"x":1335,"y":1665,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0007.png":
+{
+	"frame": {"x":719,"y":1689,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0008.png":
+{
+	"frame": {"x":181,"y":1864,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0009.png":
+{
+	"frame": {"x":901,"y":1276,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0010.png":
+{
+	"frame": {"x":451,"y":1638,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0011.png":
+{
+	"frame": {"x":811,"y":1153,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0012.png":
+{
+	"frame": {"x":541,"y":1030,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0013.png":
+{
+	"frame": {"x":1891,"y":1207,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0014.png":
+{
+	"frame": {"x":1351,"y":1087,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0015.png":
+{
+	"frame": {"x":1531,"y":764,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0016.png":
+{
+	"frame": {"x":1891,"y":482,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0017.png":
+{
+	"frame": {"x":991,"y":835,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0018.png":
+{
+	"frame": {"x":1621,"y":764,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0019.png":
+{
+	"frame": {"x":1711,"y":324,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0020.png":
+{
+	"frame": {"x":271,"y":399,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO2_0021.png":
+{
+	"frame": {"x":1766,"y":83,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0001.png":
+{
+	"frame": {"x":1862,"y":1874,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0002.png":
+{
+	"frame": {"x":1692,"y":1688,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0003.png":
+{
+	"frame": {"x":1591,"y":1560,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0004.png":
+{
+	"frame": {"x":1247,"y":1313,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0005.png":
+{
+	"frame": {"x":1677,"y":1586,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0006.png":
+{
+	"frame": {"x":1421,"y":1308,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0007.png":
+{
+	"frame": {"x":720,"y":1383,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0008.png":
+{
+	"frame": {"x":271,"y":1597,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0009.png":
+{
+	"frame": {"x":988,"y":1732,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0010.png":
+{
+	"frame": {"x":541,"y":1332,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0011.png":
+{
+	"frame": {"x":181,"y":1215,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0012.png":
+{
+	"frame": {"x":1621,"y":904,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0013.png":
+{
+	"frame": {"x":1,"y":1749,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0014.png":
+{
+	"frame": {"x":361,"y":1213,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0015.png":
+{
+	"frame": {"x":991,"y":697,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0016.png":
+{
+	"frame": {"x":631,"y":551,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0017.png":
+{
+	"frame": {"x":451,"y":899,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0018.png":
+{
+	"frame": {"x":1081,"y":697,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0019.png":
+{
+	"frame": {"x":1351,"y":403,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0020.png":
+{
+	"frame": {"x":1372,"y":165,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO3_0021.png":
+{
+	"frame": {"x":451,"y":157,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0001.png":
+{
+	"frame": {"x":1950,"y":1874,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0002.png":
+{
+	"frame": {"x":1688,"y":1780,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0003.png":
+{
+	"frame": {"x":1344,"y":1791,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0004.png":
+{
+	"frame": {"x":1327,"y":1266,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0005.png":
+{
+	"frame": {"x":1767,"y":1586,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0006.png":
+{
+	"frame": {"x":1501,"y":1266,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0007.png":
+{
+	"frame": {"x":720,"y":1434,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0008.png":
+{
+	"frame": {"x":271,"y":1650,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0009.png":
+{
+	"frame": {"x":988,"y":1782,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0010.png":
+{
+	"frame": {"x":541,"y":1383,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0011.png":
+{
+	"frame": {"x":451,"y":1213,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0012.png":
+{
+	"frame": {"x":1711,"y":904,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0013.png":
+{
+	"frame": {"x":1,"y":1808,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0014.png":
+{
+	"frame": {"x":541,"y":1213,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0015.png":
+{
+	"frame": {"x":1171,"y":766,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0016.png":
+{
+	"frame": {"x":721,"y":551,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0017.png":
+{
+	"frame": {"x":541,"y":899,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0018.png":
+{
+	"frame": {"x":1261,"y":834,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0019.png":
+{
+	"frame": {"x":1441,"y":403,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0020.png":
+{
+	"frame": {"x":1462,"y":165,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO4_0021.png":
+{
+	"frame": {"x":541,"y":157,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0001.png":
+{
+	"frame": {"x":1862,"y":1905,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0002.png":
+{
+	"frame": {"x":1688,"y":1812,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0003.png":
+{
+	"frame": {"x":1344,"y":1833,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0004.png":
+{
+	"frame": {"x":1241,"y":1403,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0005.png":
+{
+	"frame": {"x":1857,"y":1586,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0006.png":
+{
+	"frame": {"x":1415,"y":1394,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0007.png":
+{
+	"frame": {"x":720,"y":1485,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0008.png":
+{
+	"frame": {"x":271,"y":1703,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0009.png":
+{
+	"frame": {"x":988,"y":1832,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0010.png":
+{
+	"frame": {"x":541,"y":1434,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0011.png":
+{
+	"frame": {"x":631,"y":1213,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0012.png":
+{
+	"frame": {"x":1801,"y":904,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0013.png":
+{
+	"frame": {"x":1,"y":1867,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0014.png":
+{
+	"frame": {"x":721,"y":1213,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0015.png":
+{
+	"frame": {"x":1351,"y":834,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0016.png":
+{
+	"frame": {"x":811,"y":551,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0017.png":
+{
+	"frame": {"x":631,"y":899,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0018.png":
+{
+	"frame": {"x":1441,"y":834,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0019.png":
+{
+	"frame": {"x":1531,"y":403,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0020.png":
+{
+	"frame": {"x":1552,"y":165,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO5_0021.png":
+{
+	"frame": {"x":631,"y":157,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0001.png":
+{
+	"frame": {"x":1862,"y":1936,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0002.png":
+{
+	"frame": {"x":1688,"y":1844,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0003.png":
+{
+	"frame": {"x":1344,"y":1875,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0004.png":
+{
+	"frame": {"x":1241,"y":1447,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0005.png":
+{
+	"frame": {"x":1947,"y":1586,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0006.png":
+{
+	"frame": {"x":1415,"y":1436,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0007.png":
+{
+	"frame": {"x":720,"y":1536,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0008.png":
+{
+	"frame": {"x":271,"y":1756,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0009.png":
+{
+	"frame": {"x":988,"y":1882,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0010.png":
+{
+	"frame": {"x":541,"y":1485,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0011.png":
+{
+	"frame": {"x":811,"y":1213,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0012.png":
+{
+	"frame": {"x":1891,"y":904,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0013.png":
+{
+	"frame": {"x":1,"y":1926,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0014.png":
+{
+	"frame": {"x":1351,"y":1147,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0015.png":
+{
+	"frame": {"x":1531,"y":834,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0016.png":
+{
+	"frame": {"x":1171,"y":554,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0017.png":
+{
+	"frame": {"x":721,"y":899,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0018.png":
+{
+	"frame": {"x":1621,"y":834,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0019.png":
+{
+	"frame": {"x":1621,"y":403,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0020.png":
+{
+	"frame": {"x":1642,"y":165,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO6_0021.png":
+{
+	"frame": {"x":721,"y":157,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0001.png":
+{
+	"frame": {"x":1864,"y":1967,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0002.png":
+{
+	"frame": {"x":1688,"y":1876,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0003.png":
+{
+	"frame": {"x":1344,"y":1917,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0004.png":
+{
+	"frame": {"x":1241,"y":1491,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0005.png":
+{
+	"frame": {"x":1430,"y":1735,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0006.png":
+{
+	"frame": {"x":1415,"y":1478,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0007.png":
+{
+	"frame": {"x":720,"y":1587,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0008.png":
+{
+	"frame": {"x":271,"y":1809,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0009.png":
+{
+	"frame": {"x":988,"y":1932,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0010.png":
+{
+	"frame": {"x":541,"y":1536,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0011.png":
+{
+	"frame": {"x":1441,"y":1147,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0012.png":
+{
+	"frame": {"x":1171,"y":967,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0013.png":
+{
+	"frame": {"x":1,"y":1985,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0014.png":
+{
+	"frame": {"x":1531,"y":1147,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0015.png":
+{
+	"frame": {"x":1711,"y":834,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0016.png":
+{
+	"frame": {"x":901,"y":555,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0017.png":
+{
+	"frame": {"x":811,"y":899,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0018.png":
+{
+	"frame": {"x":1801,"y":834,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0019.png":
+{
+	"frame": {"x":1711,"y":403,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0020.png":
+{
+	"frame": {"x":1732,"y":165,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO7_0021.png":
+{
+	"frame": {"x":811,"y":238,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0001.png":
+{
+	"frame": {"x":1950,"y":1905,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0002.png":
+{
+	"frame": {"x":1688,"y":1908,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0003.png":
+{
+	"frame": {"x":1344,"y":1959,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0004.png":
+{
+	"frame": {"x":1241,"y":1535,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0005.png":
+{
+	"frame": {"x":1514,"y":1688,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0006.png":
+{
+	"frame": {"x":1415,"y":1520,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0007.png":
+{
+	"frame": {"x":720,"y":1638,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0008.png":
+{
+	"frame": {"x":271,"y":1862,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0009.png":
+{
+	"frame": {"x":988,"y":1982,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0010.png":
+{
+	"frame": {"x":541,"y":1587,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0011.png":
+{
+	"frame": {"x":1621,"y":1147,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0012.png":
+{
+	"frame": {"x":1081,"y":1029,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0013.png":
+{
+	"frame": {"x":91,"y":1334,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0014.png":
+{
+	"frame": {"x":1711,"y":1147,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0015.png":
+{
+	"frame": {"x":1891,"y":834,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0016.png":
+{
+	"frame": {"x":991,"y":555,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0017.png":
+{
+	"frame": {"x":901,"y":903,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0018.png":
+{
+	"frame": {"x":91,"y":763,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0019.png":
+{
+	"frame": {"x":1801,"y":403,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0020.png":
+{
+	"frame": {"x":1822,"y":165,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO8_0021.png":
+{
+	"frame": {"x":901,"y":243,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0001.png":
+{
+	"frame": {"x":1950,"y":1936,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0002.png":
+{
+	"frame": {"x":1688,"y":1940,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0003.png":
+{
+	"frame": {"x":1344,"y":2001,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0004.png":
+{
+	"frame": {"x":1241,"y":1579,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0005.png":
+{
+	"frame": {"x":1597,"y":1644,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0006.png":
+{
+	"frame": {"x":1415,"y":1562,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0007.png":
+{
+	"frame": {"x":808,"y":1689,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0008.png":
+{
+	"frame": {"x":271,"y":1915,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0009.png":
+{
+	"frame": {"x":989,"y":1326,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0010.png":
+{
+	"frame": {"x":541,"y":1638,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0011.png":
+{
+	"frame": {"x":1801,"y":1147,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0012.png":
+{
+	"frame": {"x":901,"y":1034,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0013.png":
+{
+	"frame": {"x":91,"y":1393,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0014.png":
+{
+	"frame": {"x":1891,"y":1147,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0015.png":
+{
+	"frame": {"x":1,"y":765,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0016.png":
+{
+	"frame": {"x":1081,"y":555,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0017.png":
+{
+	"frame": {"x":991,"y":903,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0018.png":
+{
+	"frame": {"x":181,"y":763,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0019.png":
+{
+	"frame": {"x":1891,"y":403,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0020.png":
+{
+	"frame": {"x":1912,"y":165,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO9_0021.png":
+{
+	"frame": {"x":1,"y":239,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0001.png":
+{
+	"frame": {"x":1773,"y":1626,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0002.png":
+{
+	"frame": {"x":1430,"y":1775,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0003.png":
+{
+	"frame": {"x":1258,"y":1753,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0004.png":
+{
+	"frame": {"x":991,"y":1273,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0005.png":
+{
+	"frame": {"x":1763,"y":1266,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0006.png":
+{
+	"frame": {"x":989,"y":1640,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0007.png":
+{
+	"frame": {"x":541,"y":1689,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0008.png":
+{
+	"frame": {"x":91,"y":1452,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0009.png":
+{
+	"frame": {"x":808,"y":1740,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0010.png":
+{
+	"frame": {"x":271,"y":1968,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0011.png":
+{
+	"frame": {"x":991,"y":1034,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0012.png":
+{
+	"frame": {"x":1081,"y":903,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0013.png":
+{
+	"frame": {"x":1261,"y":1207,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0014.png":
+{
+	"frame": {"x":271,"y":1093,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0015.png":
+{
+	"frame": {"x":1261,"y":554,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0016.png":
+{
+	"frame": {"x":91,"y":479,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0017.png":
+{
+	"frame": {"x":271,"y":763,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0018.png":
+{
+	"frame": {"x":1351,"y":554,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0019.png":
+{
+	"frame": {"x":1192,"y":245,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0020.png":
+{
+	"frame": {"x":91,"y":239,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO10_0021.png":
+{
+	"frame": {"x":956,"y":79,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0001.png":
+{
+	"frame": {"x":1861,"y":1626,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0002.png":
+{
+	"frame": {"x":1430,"y":1807,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0003.png":
+{
+	"frame": {"x":1342,"y":1707,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0004.png":
+{
+	"frame": {"x":1075,"y":1273,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0005.png":
+{
+	"frame": {"x":1853,"y":1266,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0006.png":
+{
+	"frame": {"x":1079,"y":1640,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0007.png":
+{
+	"frame": {"x":541,"y":1740,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0008.png":
+{
+	"frame": {"x":91,"y":1505,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0009.png":
+{
+	"frame": {"x":808,"y":1790,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0010.png":
+{
+	"frame": {"x":361,"y":1332,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0011.png":
+{
+	"frame": {"x":91,"y":1095,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0012.png":
+{
+	"frame": {"x":271,"y":967,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0013.png":
+{
+	"frame": {"x":1171,"y":1210,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0014.png":
+{
+	"frame": {"x":1,"y":1097,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0015.png":
+{
+	"frame": {"x":1441,"y":554,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0016.png":
+{
+	"frame": {"x":1,"y":481,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0017.png":
+{
+	"frame": {"x":361,"y":763,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0018.png":
+{
+	"frame": {"x":1531,"y":554,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0019.png":
+{
+	"frame": {"x":991,"y":246,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0020.png":
+{
+	"frame": {"x":181,"y":239,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO11_0021.png":
+{
+	"frame": {"x":832,"y":156,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0001.png":
+{
+	"frame": {"x":1949,"y":1626,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0002.png":
+{
+	"frame": {"x":1430,"y":1839,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0003.png":
+{
+	"frame": {"x":1425,"y":1651,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0004.png":
+{
+	"frame": {"x":989,"y":1376,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0005.png":
+{
+	"frame": {"x":1943,"y":1266,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0006.png":
+{
+	"frame": {"x":1078,"y":1770,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0007.png":
+{
+	"frame": {"x":541,"y":1791,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0008.png":
+{
+	"frame": {"x":91,"y":1558,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0009.png":
+{
+	"frame": {"x":808,"y":1840,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0010.png":
+{
+	"frame": {"x":361,"y":1383,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0011.png":
+{
+	"frame": {"x":181,"y":1095,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0012.png":
+{
+	"frame": {"x":91,"y":969,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0013.png":
+{
+	"frame": {"x":1081,"y":1212,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0014.png":
+{
+	"frame": {"x":361,"y":1093,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0015.png":
+{
+	"frame": {"x":1621,"y":554,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0016.png":
+{
+	"frame": {"x":181,"y":479,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0017.png":
+{
+	"frame": {"x":451,"y":763,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0018.png":
+{
+	"frame": {"x":1711,"y":554,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0019.png":
+{
+	"frame": {"x":1081,"y":246,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0020.png":
+{
+	"frame": {"x":271,"y":239,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO12_0021.png":
+{
+	"frame": {"x":1235,"y":1,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0001.png":
+{
+	"frame": {"x":1773,"y":1657,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0002.png":
+{
+	"frame": {"x":1430,"y":1871,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0003.png":
+{
+	"frame": {"x":1433,"y":1604,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0004.png":
+{
+	"frame": {"x":989,"y":1420,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0005.png":
+{
+	"frame": {"x":1763,"y":1306,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0006.png":
+{
+	"frame": {"x":1162,"y":1726,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0007.png":
+{
+	"frame": {"x":541,"y":1842,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0008.png":
+{
+	"frame": {"x":91,"y":1611,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0009.png":
+{
+	"frame": {"x":808,"y":1890,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0010.png":
+{
+	"frame": {"x":361,"y":1434,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0011.png":
+{
+	"frame": {"x":451,"y":1093,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0012.png":
+{
+	"frame": {"x":1,"y":971,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0013.png":
+{
+	"frame": {"x":991,"y":1214,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0014.png":
+{
+	"frame": {"x":541,"y":1093,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0015.png":
+{
+	"frame": {"x":1801,"y":554,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0016.png":
+{
+	"frame": {"x":271,"y":479,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0017.png":
+{
+	"frame": {"x":541,"y":763,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0018.png":
+{
+	"frame": {"x":1891,"y":554,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0019.png":
+{
+	"frame": {"x":1282,"y":245,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0020.png":
+{
+	"frame": {"x":361,"y":239,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO13_0021.png":
+{
+	"frame": {"x":1046,"y":82,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0001.png":
+{
+	"frame": {"x":1861,"y":1657,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0002.png":
+{
+	"frame": {"x":1430,"y":1903,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0003.png":
+{
+	"frame": {"x":1258,"y":1795,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0004.png":
+{
+	"frame": {"x":989,"y":1464,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0005.png":
+{
+	"frame": {"x":1853,"y":1306,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0006.png":
+{
+	"frame": {"x":1245,"y":1669,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0007.png":
+{
+	"frame": {"x":541,"y":1893,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0008.png":
+{
+	"frame": {"x":91,"y":1664,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0009.png":
+{
+	"frame": {"x":808,"y":1940,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0010.png":
+{
+	"frame": {"x":361,"y":1485,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0011.png":
+{
+	"frame": {"x":631,"y":1093,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0012.png":
+{
+	"frame": {"x":181,"y":969,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0013.png":
+{
+	"frame": {"x":901,"y":1217,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0014.png":
+{
+	"frame": {"x":721,"y":1093,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0015.png":
+{
+	"frame": {"x":1261,"y":624,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0016.png":
+{
+	"frame": {"x":361,"y":479,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0017.png":
+{
+	"frame": {"x":631,"y":763,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0018.png":
+{
+	"frame": {"x":1171,"y":626,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0019.png":
+{
+	"frame": {"x":1372,"y":245,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0020.png":
+{
+	"frame": {"x":451,"y":239,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO14_0021.png":
+{
+	"frame": {"x":1136,"y":82,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0001.png":
+{
+	"frame": {"x":1949,"y":1657,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0002.png":
+{
+	"frame": {"x":1430,"y":1935,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0003.png":
+{
+	"frame": {"x":1258,"y":1837,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0004.png":
+{
+	"frame": {"x":989,"y":1508,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0005.png":
+{
+	"frame": {"x":1943,"y":1306,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0006.png":
+{
+	"frame": {"x":1253,"y":1623,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0007.png":
+{
+	"frame": {"x":541,"y":1944,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0008.png":
+{
+	"frame": {"x":91,"y":1717,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0009.png":
+{
+	"frame": {"x":808,"y":1990,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0010.png":
+{
+	"frame": {"x":361,"y":1536,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0011.png":
+{
+	"frame": {"x":811,"y":1093,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0012.png":
+{
+	"frame": {"x":361,"y":967,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0013.png":
+{
+	"frame": {"x":271,"y":1273,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0014.png":
+{
+	"frame": {"x":1261,"y":967,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0015.png":
+{
+	"frame": {"x":1351,"y":624,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0016.png":
+{
+	"frame": {"x":451,"y":479,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0017.png":
+{
+	"frame": {"x":721,"y":763,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0018.png":
+{
+	"frame": {"x":1441,"y":624,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0019.png":
+{
+	"frame": {"x":1462,"y":245,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0020.png":
+{
+	"frame": {"x":541,"y":239,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO15_0021.png":
+{
+	"frame": {"x":922,"y":161,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0001.png":
+{
+	"frame": {"x":1602,"y":2016,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0002.png":
+{
+	"frame": {"x":1430,"y":1967,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0003.png":
+{
+	"frame": {"x":1258,"y":1879,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0004.png":
+{
+	"frame": {"x":989,"y":1552,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0005.png":
+{
+	"frame": {"x":1683,"y":1346,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0006.png":
+{
+	"frame": {"x":1078,"y":1812,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0007.png":
+{
+	"frame": {"x":541,"y":1995,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0008.png":
+{
+	"frame": {"x":91,"y":1770,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0009.png":
+{
+	"frame": {"x":809,"y":1332,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0010.png":
+{
+	"frame": {"x":361,"y":1587,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0011.png":
+{
+	"frame": {"x":1351,"y":967,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0012.png":
+{
+	"frame": {"x":451,"y":967,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0013.png":
+{
+	"frame": {"x":91,"y":1275,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0014.png":
+{
+	"frame": {"x":1441,"y":967,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0015.png":
+{
+	"frame": {"x":1531,"y":624,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0016.png":
+{
+	"frame": {"x":541,"y":479,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0017.png":
+{
+	"frame": {"x":811,"y":763,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0018.png":
+{
+	"frame": {"x":1621,"y":624,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0019.png":
+{
+	"frame": {"x":1552,"y":245,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0020.png":
+{
+	"frame": {"x":631,"y":239,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO16_0021.png":
+{
+	"frame": {"x":1325,"y":1,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0001.png":
+{
+	"frame": {"x":1778,"y":1688,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0002.png":
+{
+	"frame": {"x":1430,"y":1999,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0003.png":
+{
+	"frame": {"x":1258,"y":1921,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0004.png":
+{
+	"frame": {"x":989,"y":1596,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0005.png":
+{
+	"frame": {"x":1773,"y":1346,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0006.png":
+{
+	"frame": {"x":1078,"y":1854,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0007.png":
+{
+	"frame": {"x":630,"y":1689,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0008.png":
+{
+	"frame": {"x":91,"y":1823,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0009.png":
+{
+	"frame": {"x":809,"y":1382,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0010.png":
+{
+	"frame": {"x":361,"y":1638,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0011.png":
+{
+	"frame": {"x":1531,"y":967,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0012.png":
+{
+	"frame": {"x":541,"y":967,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0013.png":
+{
+	"frame": {"x":1,"y":1277,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0014.png":
+{
+	"frame": {"x":1621,"y":967,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0015.png":
+{
+	"frame": {"x":1711,"y":624,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0016.png":
+{
+	"frame": {"x":631,"y":479,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0017.png":
+{
+	"frame": {"x":901,"y":767,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0018.png":
+{
+	"frame": {"x":1801,"y":624,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0019.png":
+{
+	"frame": {"x":1642,"y":245,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0020.png":
+{
+	"frame": {"x":721,"y":239,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO17_0021.png":
+{
+	"frame": {"x":1415,"y":1,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0001.png":
+{
+	"frame": {"x":1866,"y":1688,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0002.png":
+{
+	"frame": {"x":1516,"y":1775,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0003.png":
+{
+	"frame": {"x":1258,"y":1963,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0004.png":
+{
+	"frame": {"x":1077,"y":1682,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0005.png":
+{
+	"frame": {"x":1863,"y":1346,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0006.png":
+{
+	"frame": {"x":1078,"y":1896,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0007.png":
+{
+	"frame": {"x":630,"y":1740,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0008.png":
+{
+	"frame": {"x":91,"y":1876,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0009.png":
+{
+	"frame": {"x":809,"y":1432,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0010.png":
+{
+	"frame": {"x":361,"y":1689,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0011.png":
+{
+	"frame": {"x":1711,"y":967,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0012.png":
+{
+	"frame": {"x":631,"y":967,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0013.png":
+{
+	"frame": {"x":181,"y":1275,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0014.png":
+{
+	"frame": {"x":1801,"y":967,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0015.png":
+{
+	"frame": {"x":1891,"y":624,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0016.png":
+{
+	"frame": {"x":721,"y":479,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0017.png":
+{
+	"frame": {"x":991,"y":767,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0018.png":
+{
+	"frame": {"x":1261,"y":694,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0019.png":
+{
+	"frame": {"x":1732,"y":245,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0020.png":
+{
+	"frame": {"x":91,"y":319,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO18_0021.png":
+{
+	"frame": {"x":1505,"y":1,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0001.png":
+{
+	"frame": {"x":1778,"y":1719,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0002.png":
+{
+	"frame": {"x":1520,"y":1728,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0003.png":
+{
+	"frame": {"x":1258,"y":2005,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0004.png":
+{
+	"frame": {"x":1073,"y":1376,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0005.png":
+{
+	"frame": {"x":1677,"y":1386,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0006.png":
+{
+	"frame": {"x":1078,"y":1938,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0007.png":
+{
+	"frame": {"x":630,"y":1791,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0008.png":
+{
+	"frame": {"x":91,"y":1929,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0009.png":
+{
+	"frame": {"x":809,"y":1482,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0010.png":
+{
+	"frame": {"x":361,"y":1740,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0011.png":
+{
+	"frame": {"x":1891,"y":967,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0012.png":
+{
+	"frame": {"x":721,"y":967,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0013.png":
+{
+	"frame": {"x":361,"y":1273,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0014.png":
+{
+	"frame": {"x":1261,"y":1027,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0015.png":
+{
+	"frame": {"x":1351,"y":694,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0016.png":
+{
+	"frame": {"x":811,"y":479,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0017.png":
+{
+	"frame": {"x":1081,"y":767,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0018.png":
+{
+	"frame": {"x":1441,"y":694,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0019.png":
+{
+	"frame": {"x":1822,"y":245,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0020.png":
+{
+	"frame": {"x":1,"y":321,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO19_0021.png":
+{
+	"frame": {"x":1595,"y":1,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0001.png":
+{
+	"frame": {"x":1774,"y":1750,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0002.png":
+{
+	"frame": {"x":1687,"y":1626,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0003.png":
+{
+	"frame": {"x":1511,"y":1308,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0004.png":
+{
+	"frame": {"x":1159,"y":1271,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0005.png":
+{
+	"frame": {"x":1857,"y":1386,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0006.png":
+{
+	"frame": {"x":1325,"y":1357,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0007.png":
+{
+	"frame": {"x":630,"y":1893,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0008.png":
+{
+	"frame": {"x":181,"y":1334,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0009.png":
+{
+	"frame": {"x":809,"y":1582,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0010.png":
+{
+	"frame": {"x":361,"y":1842,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0011.png":
+{
+	"frame": {"x":1441,"y":1027,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0012.png":
+{
+	"frame": {"x":1171,"y":904,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0013.png":
+{
+	"frame": {"x":541,"y":1273,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0014.png":
+{
+	"frame": {"x":1531,"y":1027,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0015.png":
+{
+	"frame": {"x":1711,"y":694,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0016.png":
+{
+	"frame": {"x":901,"y":483,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0017.png":
+{
+	"frame": {"x":91,"y":833,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0018.png":
+{
+	"frame": {"x":1801,"y":694,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0019.png":
+{
+	"frame": {"x":1171,"y":324,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0020.png":
+{
+	"frame": {"x":271,"y":319,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO20_0021.png":
+{
+	"frame": {"x":1775,"y":1,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0001.png":
+{
+	"frame": {"x":1862,"y":1750,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0002.png":
+{
+	"frame": {"x":1516,"y":1807,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0003.png":
+{
+	"frame": {"x":1591,"y":1266,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0004.png":
+{
+	"frame": {"x":1073,"y":1420,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0005.png":
+{
+	"frame": {"x":1947,"y":1386,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0006.png":
+{
+	"frame": {"x":1331,"y":1310,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0007.png":
+{
+	"frame": {"x":630,"y":1944,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0008.png":
+{
+	"frame": {"x":181,"y":1387,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0009.png":
+{
+	"frame": {"x":809,"y":1632,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0010.png":
+{
+	"frame": {"x":361,"y":1893,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0011.png":
+{
+	"frame": {"x":1621,"y":1027,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0012.png":
+{
+	"frame": {"x":1081,"y":966,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0013.png":
+{
+	"frame": {"x":631,"y":1273,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0014.png":
+{
+	"frame": {"x":1711,"y":1027,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0015.png":
+{
+	"frame": {"x":1891,"y":694,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0016.png":
+{
+	"frame": {"x":991,"y":483,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0017.png":
+{
+	"frame": {"x":1,"y":835,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0018.png":
+{
+	"frame": {"x":91,"y":623,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0019.png":
+{
+	"frame": {"x":901,"y":325,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0020.png":
+{
+	"frame": {"x":361,"y":319,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO21_0021.png":
+{
+	"frame": {"x":1865,"y":1,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0001.png":
+{
+	"frame": {"x":1950,"y":1750,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0002.png":
+{
+	"frame": {"x":1516,"y":1839,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0003.png":
+{
+	"frame": {"x":1505,"y":1392,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0004.png":
+{
+	"frame": {"x":1073,"y":1464,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0005.png":
+{
+	"frame": {"x":1677,"y":1426,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0006.png":
+{
+	"frame": {"x":1411,"y":1266,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0007.png":
+{
+	"frame": {"x":630,"y":1995,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0008.png":
+{
+	"frame": {"x":181,"y":1440,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0009.png":
+{
+	"frame": {"x":897,"y":1682,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0010.png":
+{
+	"frame": {"x":361,"y":1944,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0011.png":
+{
+	"frame": {"x":1801,"y":1027,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0012.png":
+{
+	"frame": {"x":901,"y":971,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0013.png":
+{
+	"frame": {"x":721,"y":1273,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0014.png":
+{
+	"frame": {"x":1891,"y":1027,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0015.png":
+{
+	"frame": {"x":1,"y":625,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0016.png":
+{
+	"frame": {"x":1081,"y":483,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0017.png":
+{
+	"frame": {"x":181,"y":833,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0018.png":
+{
+	"frame": {"x":181,"y":623,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0019.png":
+{
+	"frame": {"x":811,"y":400,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0020.png":
+{
+	"frame": {"x":451,"y":319,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO22_0021.png":
+{
+	"frame": {"x":1226,"y":83,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0001.png":
+{
+	"frame": {"x":1688,"y":1972,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0002.png":
+{
+	"frame": {"x":1516,"y":1871,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0003.png":
+{
+	"frame": {"x":1505,"y":1434,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0004.png":
+{
+	"frame": {"x":1073,"y":1508,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0005.png":
+{
+	"frame": {"x":1767,"y":1426,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0006.png":
+{
+	"frame": {"x":1325,"y":1399,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0007.png":
+{
+	"frame": {"x":631,"y":1332,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0008.png":
+{
+	"frame": {"x":181,"y":1493,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0009.png":
+{
+	"frame": {"x":898,"y":1732,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0010.png":
+{
+	"frame": {"x":361,"y":1995,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0011.png":
+{
+	"frame": {"x":1261,"y":1087,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0012.png":
+{
+	"frame": {"x":991,"y":971,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0013.png":
+{
+	"frame": {"x":811,"y":1273,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0014.png":
+{
+	"frame": {"x":1171,"y":1090,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0015.png":
+{
+	"frame": {"x":271,"y":623,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0016.png":
+{
+	"frame": {"x":1261,"y":482,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0017.png":
+{
+	"frame": {"x":361,"y":831,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0018.png":
+{
+	"frame": {"x":361,"y":623,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0019.png":
+{
+	"frame": {"x":991,"y":325,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0020.png":
+{
+	"frame": {"x":541,"y":319,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO23_0021.png":
+{
+	"frame": {"x":1012,"y":164,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0001.png":
+{
+	"frame": {"x":1690,"y":2003,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0002.png":
+{
+	"frame": {"x":1516,"y":1903,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0003.png":
+{
+	"frame": {"x":1505,"y":1476,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0004.png":
+{
+	"frame": {"x":1073,"y":1552,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0005.png":
+{
+	"frame": {"x":1857,"y":1426,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0006.png":
+{
+	"frame": {"x":1325,"y":1441,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0007.png":
+{
+	"frame": {"x":631,"y":1383,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0008.png":
+{
+	"frame": {"x":181,"y":1546,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0009.png":
+{
+	"frame": {"x":898,"y":1782,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0010.png":
+{
+	"frame": {"x":451,"y":1332,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0011.png":
+{
+	"frame": {"x":1081,"y":1092,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0012.png":
+{
+	"frame": {"x":271,"y":1030,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0013.png":
+{
+	"frame": {"x":1351,"y":1207,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0014.png":
+{
+	"frame": {"x":991,"y":1094,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0015.png":
+{
+	"frame": {"x":451,"y":623,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0016.png":
+{
+	"frame": {"x":1351,"y":482,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0017.png":
+{
+	"frame": {"x":451,"y":831,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0018.png":
+{
+	"frame": {"x":541,"y":623,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0019.png":
+{
+	"frame": {"x":1081,"y":325,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0020.png":
+{
+	"frame": {"x":631,"y":319,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO24_0021.png":
+{
+	"frame": {"x":1102,"y":164,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0001.png":
+{
+	"frame": {"x":1774,"y":1781,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0002.png":
+{
+	"frame": {"x":1516,"y":1935,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0003.png":
+{
+	"frame": {"x":1505,"y":1518,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0004.png":
+{
+	"frame": {"x":1073,"y":1596,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0005.png":
+{
+	"frame": {"x":1947,"y":1426,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0006.png":
+{
+	"frame": {"x":1325,"y":1483,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0007.png":
+{
+	"frame": {"x":631,"y":1434,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0008.png":
+{
+	"frame": {"x":181,"y":1599,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0009.png":
+{
+	"frame": {"x":898,"y":1832,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0010.png":
+{
+	"frame": {"x":451,"y":1383,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0011.png":
+{
+	"frame": {"x":901,"y":1097,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0012.png":
+{
+	"frame": {"x":91,"y":1032,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0013.png":
+{
+	"frame": {"x":1441,"y":1207,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0014.png":
+{
+	"frame": {"x":271,"y":1153,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0015.png":
+{
+	"frame": {"x":631,"y":623,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0016.png":
+{
+	"frame": {"x":1441,"y":482,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0017.png":
+{
+	"frame": {"x":541,"y":831,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0018.png":
+{
+	"frame": {"x":721,"y":623,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0019.png":
+{
+	"frame": {"x":1261,"y":324,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0020.png":
+{
+	"frame": {"x":721,"y":319,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO25_0021.png":
+{
+	"frame": {"x":1316,"y":83,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0001.png":
+{
+	"frame": {"x":1862,"y":1781,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0002.png":
+{
+	"frame": {"x":1516,"y":1967,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0003.png":
+{
+	"frame": {"x":1505,"y":1560,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0004.png":
+{
+	"frame": {"x":1157,"y":1361,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0005.png":
+{
+	"frame": {"x":1677,"y":1466,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0006.png":
+{
+	"frame": {"x":1325,"y":1525,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0007.png":
+{
+	"frame": {"x":631,"y":1485,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0008.png":
+{
+	"frame": {"x":181,"y":1652,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0009.png":
+{
+	"frame": {"x":898,"y":1882,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0010.png":
+{
+	"frame": {"x":451,"y":1434,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0011.png":
+{
+	"frame": {"x":91,"y":1155,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0012.png":
+{
+	"frame": {"x":1,"y":1034,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0013.png":
+{
+	"frame": {"x":1531,"y":1207,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0014.png":
+{
+	"frame": {"x":1,"y":1157,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0015.png":
+{
+	"frame": {"x":811,"y":623,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0016.png":
+{
+	"frame": {"x":1531,"y":482,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0017.png":
+{
+	"frame": {"x":631,"y":831,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0018.png":
+{
+	"frame": {"x":901,"y":627,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0019.png":
+{
+	"frame": {"x":1351,"y":324,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0020.png":
+{
+	"frame": {"x":811,"y":320,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO26_0021.png":
+{
+	"frame": {"x":1406,"y":83,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0001.png":
+{
+	"frame": {"x":1950,"y":1781,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0002.png":
+{
+	"frame": {"x":1516,"y":1999,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0003.png":
+{
+	"frame": {"x":1344,"y":1749,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0004.png":
+{
+	"frame": {"x":1163,"y":1315,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0005.png":
+{
+	"frame": {"x":1767,"y":1466,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0006.png":
+{
+	"frame": {"x":1325,"y":1567,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0007.png":
+{
+	"frame": {"x":631,"y":1536,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0008.png":
+{
+	"frame": {"x":181,"y":1705,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0009.png":
+{
+	"frame": {"x":898,"y":1932,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0010.png":
+{
+	"frame": {"x":451,"y":1485,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0011.png":
+{
+	"frame": {"x":181,"y":1155,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0012.png":
+{
+	"frame": {"x":181,"y":1032,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0013.png":
+{
+	"frame": {"x":1621,"y":1207,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0014.png":
+{
+	"frame": {"x":361,"y":1153,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0015.png":
+{
+	"frame": {"x":991,"y":627,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0016.png":
+{
+	"frame": {"x":1621,"y":482,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0017.png":
+{
+	"frame": {"x":721,"y":831,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0018.png":
+{
+	"frame": {"x":1081,"y":627,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0019.png":
+{
+	"frame": {"x":1441,"y":324,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0020.png":
+{
+	"frame": {"x":91,"y":399,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO27_0021.png":
+{
+	"frame": {"x":1496,"y":83,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0001.png":
+{
+	"frame": {"x":1774,"y":1812,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0002.png":
+{
+	"frame": {"x":1602,"y":1760,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0003.png":
+{
+	"frame": {"x":1428,"y":1693,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0004.png":
+{
+	"frame": {"x":1243,"y":1269,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0005.png":
+{
+	"frame": {"x":1857,"y":1466,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0006.png":
+{
+	"frame": {"x":1168,"y":1768,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0007.png":
+{
+	"frame": {"x":631,"y":1587,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0008.png":
+{
+	"frame": {"x":181,"y":1758,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0009.png":
+{
+	"frame": {"x":898,"y":1982,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0010.png":
+{
+	"frame": {"x":451,"y":1536,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0011.png":
+{
+	"frame": {"x":451,"y":1153,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0012.png":
+{
+	"frame": {"x":361,"y":1030,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0013.png":
+{
+	"frame": {"x":1711,"y":1207,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0014.png":
+{
+	"frame": {"x":541,"y":1153,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0015.png":
+{
+	"frame": {"x":1171,"y":696,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0016.png":
+{
+	"frame": {"x":1711,"y":482,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0017.png":
+{
+	"frame": {"x":811,"y":831,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0018.png":
+{
+	"frame": {"x":1261,"y":764,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0019.png":
+{
+	"frame": {"x":1531,"y":324,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0020.png":
+{
+	"frame": {"x":1,"y":401,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO28_0021.png":
+{
+	"frame": {"x":1586,"y":83,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0001.png":
+{
+	"frame": {"x":1862,"y":1812,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0002.png":
+{
+	"frame": {"x":1606,"y":1716,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0003.png":
+{
+	"frame": {"x":1511,"y":1646,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0004.png":
+{
+	"frame": {"x":1157,"y":1405,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0005.png":
+{
+	"frame": {"x":1947,"y":1466,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0006.png":
+{
+	"frame": {"x":1252,"y":1711,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0007.png":
+{
+	"frame": {"x":631,"y":1638,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0008.png":
+{
+	"frame": {"x":181,"y":1811,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0009.png":
+{
+	"frame": {"x":899,"y":1332,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0010.png":
+{
+	"frame": {"x":451,"y":1587,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0011.png":
+{
+	"frame": {"x":631,"y":1153,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0012.png":
+{
+	"frame": {"x":451,"y":1030,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0013.png":
+{
+	"frame": {"x":1801,"y":1207,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0014.png":
+{
+	"frame": {"x":721,"y":1153,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0015.png":
+{
+	"frame": {"x":1351,"y":764,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0016.png":
+{
+	"frame": {"x":1801,"y":482,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0017.png":
+{
+	"frame": {"x":901,"y":835,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0018.png":
+{
+	"frame": {"x":1441,"y":764,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0019.png":
+{
+	"frame": {"x":1621,"y":324,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0020.png":
+{
+	"frame": {"x":181,"y":399,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO29_0021.png":
+{
+	"frame": {"x":1676,"y":83,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0001.png":
+{
+	"frame": {"x":1774,"y":1843,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0002.png":
+{
+	"frame": {"x":1602,"y":1824,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0003.png":
+{
+	"frame": {"x":1591,"y":1350,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0004.png":
+{
+	"frame": {"x":1157,"y":1493,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0005.png":
+{
+	"frame": {"x":1767,"y":1506,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0006.png":
+{
+	"frame": {"x":1343,"y":1609,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0007.png":
+{
+	"frame": {"x":719,"y":1740,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0008.png":
+{
+	"frame": {"x":181,"y":1917,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0009.png":
+{
+	"frame": {"x":899,"y":1382,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0010.png":
+{
+	"frame": {"x":451,"y":1689,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0011.png":
+{
+	"frame": {"x":1441,"y":1087,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0012.png":
+{
+	"frame": {"x":631,"y":1030,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0013.png":
+{
+	"frame": {"x":1,"y":1336,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0014.png":
+{
+	"frame": {"x":1531,"y":1087,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0015.png":
+{
+	"frame": {"x":1711,"y":764,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0016.png":
+{
+	"frame": {"x":91,"y":551,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0017.png":
+{
+	"frame": {"x":1081,"y":835,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0018.png":
+{
+	"frame": {"x":1801,"y":764,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0019.png":
+{
+	"frame": {"x":1801,"y":324,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0020.png":
+{
+	"frame": {"x":361,"y":399,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO30_0021.png":
+{
+	"frame": {"x":1856,"y":83,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0001.png":
+{
+	"frame": {"x":1774,"y":1874,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0002.png":
+{
+	"frame": {"x":1602,"y":1856,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0003.png":
+{
+	"frame": {"x":1597,"y":1308,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0004.png":
+{
+	"frame": {"x":1157,"y":1537,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0005.png":
+{
+	"frame": {"x":1857,"y":1506,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0006.png":
+{
+	"frame": {"x":1168,"y":1810,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0007.png":
+{
+	"frame": {"x":719,"y":1791,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0008.png":
+{
+	"frame": {"x":181,"y":1970,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0009.png":
+{
+	"frame": {"x":899,"y":1432,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0010.png":
+{
+	"frame": {"x":451,"y":1740,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0011.png":
+{
+	"frame": {"x":1621,"y":1087,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0012.png":
+{
+	"frame": {"x":721,"y":1030,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0013.png":
+{
+	"frame": {"x":1,"y":1395,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0014.png":
+{
+	"frame": {"x":1711,"y":1087,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0015.png":
+{
+	"frame": {"x":1891,"y":764,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0016.png":
+{
+	"frame": {"x":1,"y":553,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0017.png":
+{
+	"frame": {"x":1171,"y":836,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0018.png":
+{
+	"frame": {"x":91,"y":693,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0019.png":
+{
+	"frame": {"x":1891,"y":324,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0020.png":
+{
+	"frame": {"x":451,"y":399,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO31_0021.png":
+{
+	"frame": {"x":1946,"y":83,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0001.png":
+{
+	"frame": {"x":1774,"y":1905,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0002.png":
+{
+	"frame": {"x":1602,"y":1888,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0003.png":
+{
+	"frame": {"x":1677,"y":1266,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0004.png":
+{
+	"frame": {"x":1157,"y":1581,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0005.png":
+{
+	"frame": {"x":1947,"y":1506,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0006.png":
+{
+	"frame": {"x":1168,"y":1852,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0007.png":
+{
+	"frame": {"x":719,"y":1842,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0008.png":
+{
+	"frame": {"x":271,"y":1332,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0009.png":
+{
+	"frame": {"x":899,"y":1482,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0010.png":
+{
+	"frame": {"x":451,"y":1791,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0011.png":
+{
+	"frame": {"x":1801,"y":1087,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0012.png":
+{
+	"frame": {"x":811,"y":1030,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0013.png":
+{
+	"frame": {"x":1,"y":1454,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0014.png":
+{
+	"frame": {"x":1891,"y":1087,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0015.png":
+{
+	"frame": {"x":1,"y":695,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0016.png":
+{
+	"frame": {"x":181,"y":551,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0017.png":
+{
+	"frame": {"x":271,"y":899,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0018.png":
+{
+	"frame": {"x":181,"y":693,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0019.png":
+{
+	"frame": {"x":1171,"y":403,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0020.png":
+{
+	"frame": {"x":541,"y":399,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO32_0021.png":
+{
+	"frame": {"x":1,"y":157,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0001.png":
+{
+	"frame": {"x":1774,"y":1936,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0002.png":
+{
+	"frame": {"x":1602,"y":1920,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0003.png":
+{
+	"frame": {"x":1591,"y":1392,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0004.png":
+{
+	"frame": {"x":1078,"y":1726,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0005.png":
+{
+	"frame": {"x":1677,"y":1546,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0006.png":
+{
+	"frame": {"x":1168,"y":1894,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0007.png":
+{
+	"frame": {"x":719,"y":1893,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0008.png":
+{
+	"frame": {"x":271,"y":1385,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0009.png":
+{
+	"frame": {"x":899,"y":1532,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0010.png":
+{
+	"frame": {"x":451,"y":1842,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0011.png":
+{
+	"frame": {"x":1261,"y":1147,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0012.png":
+{
+	"frame": {"x":1261,"y":904,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0013.png":
+{
+	"frame": {"x":1,"y":1513,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0014.png":
+{
+	"frame": {"x":1171,"y":1150,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0015.png":
+{
+	"frame": {"x":271,"y":693,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0016.png":
+{
+	"frame": {"x":271,"y":551,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0017.png":
+{
+	"frame": {"x":91,"y":901,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0018.png":
+{
+	"frame": {"x":361,"y":693,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0019.png":
+{
+	"frame": {"x":901,"y":404,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0020.png":
+{
+	"frame": {"x":631,"y":399,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO33_0021.png":
+{
+	"frame": {"x":91,"y":157,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0001.png":
+{
+	"frame": {"x":1776,"y":1967,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0002.png":
+{
+	"frame": {"x":1602,"y":1952,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0003.png":
+{
+	"frame": {"x":1591,"y":1434,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0004.png":
+{
+	"frame": {"x":1161,"y":1682,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0005.png":
+{
+	"frame": {"x":1767,"y":1546,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0006.png":
+{
+	"frame": {"x":1168,"y":1936,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0007.png":
+{
+	"frame": {"x":719,"y":1944,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0008.png":
+{
+	"frame": {"x":271,"y":1438,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0009.png":
+{
+	"frame": {"x":899,"y":1582,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0010.png":
+{
+	"frame": {"x":451,"y":1893,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0011.png":
+{
+	"frame": {"x":1081,"y":1152,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0012.png":
+{
+	"frame": {"x":1351,"y":904,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0013.png":
+{
+	"frame": {"x":1,"y":1572,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0014.png":
+{
+	"frame": {"x":991,"y":1154,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0015.png":
+{
+	"frame": {"x":451,"y":693,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0016.png":
+{
+	"frame": {"x":361,"y":551,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0017.png":
+{
+	"frame": {"x":1,"y":903,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0018.png":
+{
+	"frame": {"x":541,"y":693,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0019.png":
+{
+	"frame": {"x":991,"y":404,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0020.png":
+{
+	"frame": {"x":721,"y":399,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO34_0021.png":
+{
+	"frame": {"x":181,"y":157,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0001.png":
+{
+	"frame": {"x":1778,"y":1998,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0002.png":
+{
+	"frame": {"x":1602,"y":1984,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0003.png":
+{
+	"frame": {"x":1591,"y":1476,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0004.png":
+{
+	"frame": {"x":1169,"y":1625,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0005.png":
+{
+	"frame": {"x":1857,"y":1546,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0006.png":
+{
+	"frame": {"x":1168,"y":1978,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0007.png":
+{
+	"frame": {"x":719,"y":1995,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0008.png":
+{
+	"frame": {"x":271,"y":1491,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0009.png":
+{
+	"frame": {"x":899,"y":1632,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0010.png":
+{
+	"frame": {"x":451,"y":1944,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0011.png":
+{
+	"frame": {"x":901,"y":1157,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0012.png":
+{
+	"frame": {"x":1441,"y":904,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0013.png":
+{
+	"frame": {"x":1,"y":1631,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0014.png":
+{
+	"frame": {"x":271,"y":1213,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0015.png":
+{
+	"frame": {"x":631,"y":693,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0016.png":
+{
+	"frame": {"x":451,"y":551,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0017.png":
+{
+	"frame": {"x":181,"y":901,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0018.png":
+{
+	"frame": {"x":721,"y":693,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0019.png":
+{
+	"frame": {"x":1081,"y":404,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0020.png":
+{
+	"frame": {"x":1192,"y":165,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO35_0021.png":
+{
+	"frame": {"x":271,"y":157,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0001.png":
+{
+	"frame": {"x":1866,"y":1843,"w":86,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":86,"h":29},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0002.png":
+{
+	"frame": {"x":1688,"y":1748,"w":84,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":84,"h":30},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0003.png":
+{
+	"frame": {"x":1591,"y":1518,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0004.png":
+{
+	"frame": {"x":1241,"y":1359,"w":82,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":82,"h":42},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0005.png":
+{
+	"frame": {"x":1947,"y":1546,"w":88,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":38},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0006.png":
+{
+	"frame": {"x":1415,"y":1352,"w":88,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":40},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0007.png":
+{
+	"frame": {"x":720,"y":1332,"w":87,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":87,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0008.png":
+{
+	"frame": {"x":271,"y":1544,"w":88,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":51},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0009.png":
+{
+	"frame": {"x":987,"y":1682,"w":88,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":48},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0010.png":
+{
+	"frame": {"x":451,"y":1995,"w":88,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":49},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0011.png":
+{
+	"frame": {"x":91,"y":1215,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0012.png":
+{
+	"frame": {"x":1531,"y":904,"w":88,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":61},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0013.png":
+{
+	"frame": {"x":1,"y":1690,"w":88,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":57},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0014.png":
+{
+	"frame": {"x":1,"y":1217,"w":88,"h":58},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":58},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0015.png":
+{
+	"frame": {"x":811,"y":693,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0016.png":
+{
+	"frame": {"x":541,"y":551,"w":88,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":70},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0017.png":
+{
+	"frame": {"x":361,"y":899,"w":88,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":88,"h":66},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0018.png":
+{
+	"frame": {"x":901,"y":697,"w":88,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":88,"h":68},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0019.png":
+{
+	"frame": {"x":1261,"y":403,"w":88,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":77},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0020.png":
+{
+	"frame": {"x":1282,"y":165,"w":88,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":88,"h":78},
+	"sourceSize": {"w":88,"h":82}
+},
+"sweaterNO36_0021.png":
+{
+	"frame": {"x":361,"y":157,"w":88,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":88,"h":80},
+	"sourceSize": {"w":88,"h":82}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameAnim2.png",
+	"format": "RGBA8888",
+	"size": {"w":2037,"h":2046},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bd444d610a8e1ecc65a366571f2ece0b:3e65f6c5dec9511da0693f26fa57e410:4580e3c64828e68ca8d4547cbdcf9b7a$"
+}
+}

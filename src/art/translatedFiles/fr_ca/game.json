@@ -1,0 +1,148 @@
+﻿{
+	"audioLoader": {
+		"yes": "Oui",
+		"no": "Non",
+		"confirm": "Activer le son?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "{@minRTP}% à {@maxRTP}%"
+		"paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour moyen théorique à long terme est de {RTP}."
+	},
+	"title": "Happy Hatching",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Règles du jeu",
+			"payTable": "Table de paiement",
+			"price": "Prix",
+			"stake": "Mise",
+			"balance": "Solde"  
+		},
+		"Commercial": {
+			"howToPlay": "Règles du jeu",
+			"payTable": "Table de paiement",
+			"price": "Prix",
+			"stake": "Mise",
+			"balance": "Solde"
+		},
+		"audio": {
+			"on": "Activé",
+			"off": "Désactivé",
+			"sound": "Son"
+		}
+	},
+	"Game": {
+		"demo": "ESSAYER",
+		"button_play": "JOUER",
+		"button_buy": "ACHETER",
+		"button_try": "ESSAYER",
+		"button_continue": "CONTINUER",
+		"button_move2moneyGame": "MODE ARGENT RÉEL",
+		"meter_wager": "Coût du billet",
+		"wager": "COÛT DU BILLET",
+		"balance": "Solde :"
+		"wins": "Gain"
+		"wins_demo": "Gain fictif",
+		"button_autoPlay": "TOUT DÉVOILER",
+		"button_stop": "ARRÊTER",
+		"button_playAgain":"JOUER DE NOUVEAU",
+		"button_MTMPlayAgain": "ESSAYER DE NOUVEAU",
+		"message_nonWin": "MEILLEURE CHANCE LA PROCHAINE FOIS",
+		"message_buyWin": "Félicitations!\nVous avez gagné",
+		"message_tryWin": "Merci d’avoir joué!\nVous auriez pu gagner",
+		"message_anonymous_tryWin": "Merci d’avoir joué!\nVous auriez pu gagner",
+		"message_close": "FERMER",
+		"meter_division": " | ",
+		"button_exit": "QUITTER",
+		"error_button_exit": "QUITTER",
+		"warning_button_continue": "CONTINUER À JOUER",
+		"warning_button_exitGame": "QUITTER",
+		"warning_title": " ",
+		"error_title": "ERREUR",
+		"win_up_to":"GAGNEZ JUSQU'À",
+		"tutorial_title":"COMMENT JOUER",
+		"tutorial_00":"Appuyez sur les œufs pour découvrir des poussins, chacun portant VOTRE NUMÉRO et un lot.",
+		"tutorial_01":"Appuyez sur les poules pour découvrir des tricots, chacun portant un NUMÉRO CHANCEUX.",
+		"tutorial_02":" Si VOTRE NUMÉRO est identique au NUMÉRO CHANCEUX, vous gagnez le lot associé à VOTRE NUMÉRO.",
+		"tutorial_03":"Si vous trouvez un poussin avec un lot instantané, vous gagnez \nle lot instantané associé à ce poussin.",
+		"tutorial_04":"Si vous trouvez un poussin « 2X » ou « 5X », vous gagnez respectivement 2 ou 5 fois le lot associé à ce poussin!",
+		"your_number":"VOS NUMÉROS",
+		"lucy_number":"NUMÉROS CHANCEUX",
+		"button_close": "X",
+		"prizeLevel": "Niveau du lot",
+        "prizeValue": "Valeur du lot",
+		"paytableWager": "Coût du billet: "
+	}
+{
+	"audioLoader": {
+		"yes": "Oui",
+		"no": "Non",
+		"confirm": "Activer le son?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "{@minRTP}% à {@maxRTP}%"
+	},
+	"title": "Happy Hatching",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Règles du jeu",
+			"payTable": "Table de paiement",
+			"price": "Prix",
+			"stake": "Mise",
+			"balance": "Solde"  
+		},
+		"Commercial": {
+			"howToPlay": "Règles du jeu",
+			"payTable": "Table de paiement",
+			"price": "Prix",
+			"stake": "Mise",
+			"balance": "Solde"
+		},
+		"audio": {
+			"on": "Activé",
+			"off": "Désactivé",
+			"sound": "Son"
+		}
+	},
+	"Game": {
+		"demo": "ESSAYER",
+		"button_play": "JOUER",
+		"button_buy": "ACHETER",
+		"button_try": "ESSAYER",
+		"button_continue": "CONTINUER",
+		"button_move2moneyGame": "MODE ARGENT RÉEL",
+		"meter_wager": "Coût du billet",
+		"wager": "COÛT DU BILLET",
+		"balance": "Solde :"
+		"wins": "Gain"
+		"wins_demo": "Gain fictif",
+		"button_autoPlay": "TOUT DÉVOILER",
+		"button_stop": "ARRÊTER",
+		"button_playAgain":"JOUER DE NOUVEAU",
+		"button_MTMPlayAgain": "ESSAYER DE NOUVEAU",
+		"message_nonWin": "MEILLEURE CHANCE LA PROCHAINE FOIS",
+		"message_buyWin": "Félicitations!\nVous avez gagné",
+		"message_tryWin": "Merci d’avoir joué!\nVous auriez pu gagner",
+		"message_anonymous_tryWin": "Merci d’avoir joué!\nVous auriez pu gagner",
+		"message_close": "FERMER",
+		"meter_division": " | ",
+		"button_exit": "QUITTER",
+		"error_button_exit": "QUITTER",
+		"warning_button_continue": "CONTINUER À JOUER",
+		"warning_button_exitGame": "QUITTER",
+		"warning_title": " ",
+		"error_title": "ERREUR",
+		"win_up_to":"GAGNEZ JUSQU'À",
+		"tutorial_title":"COMMENT JOUER",
+		"tutorial_00":"Appuyez sur les œufs pour découvrir des poussins, chacun portant VOTRE NUMÉRO et un lot.",
+		"tutorial_01":"Appuyez sur les poules pour découvrir des tricots, chacun portant un NUMÉRO CHANCEUX.",
+		"tutorial_02":" Si VOTRE NUMÉRO est identique au NUMÉRO CHANCEUX, vous gagnez le lot associé à VOTRE NUMÉRO.",
+		"tutorial_03":"Si vous trouvez un poussin avec un lot instantané, vous gagnez \nle lot instantané associé à ce poussin.",
+		"tutorial_04":"Si vous trouvez un poussin « 2X » ou « 5X », vous gagnez respectivement 2 ou 5 fois le lot associé à ce poussin!",
+		"your_number":"VOS NUMÉROS",
+		"lucy_number":"NUMÉROS CHANCEUX",
+		"button_close": "X",
+	}
+}

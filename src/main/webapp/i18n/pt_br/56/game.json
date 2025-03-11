@@ -1,0 +1,91 @@
+﻿{
+	"version": "1-30-2018 11:40AM Chocadeira Premiada en_us_default SM",
+	"audioLoader": {
+		"yes": "Sim",
+		"no": "Não",
+		"confirm": "Você deseja ativar o som?"
+	},
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% a {@maxRTP}%",
+		"hardMinRTP": "85,00",
+		"hardMaxRTP": "93,00",
+        "paybackTitle": "Retorno Esperado",
+        "paybackBody": "Para este jogo, o retorno esperado teórico de longo prazo é {RTP}."
+    },
+	"title": "Chocadeira Premiada",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Como Jogar",
+			"payTable": "Tabela de Prêmios",
+			"price": "Preço",
+			"stake": "Aposta",
+			"balance": "Saldo"
+		},
+		"Commercial": {
+			"howToPlay": "Como Jogar",
+			"payTable": "Tabela de Pagamento",
+			"price": "Preço",
+			"stake": "Aposta",
+			"balance": "Saldo"
+		},
+		"audio": {
+			"on": "Ativado",
+			"off": "Desativado",
+			"sound": "Som"
+		}
+	},
+	"Game": {
+		"demo": "TENTAR",
+		"button_play": "JOGAR",
+		"button_buy": "COMPRAR",
+		"button_try": "TENTAR",
+		"button_continue": "CONTINUAR",
+		"button_move2moneyGame": "PASSAR PARA \nDINHEIRO ",
+		"meter_wager": "Custo do Bilhete",
+		"wager": "CUSTO DO BILHETE",
+		"balance": "Saldo",
+		"wins": "Prêmio",
+		"wins_demo": "Prêmio da Demonstração",
+		"button_autoPlay": "REVELAR TUDO",
+		"button_stop": "PARAR",
+		"button_playAgain":"JOGAR NOVAMENTE",
+		"button_MTMPlayAgain": "TENTAR NOVAMENTE",
+		"message_nonWin": "MAIS SORTE \nNA PRÓXIMA VEZ",
+		"message_buyWin": "PARABÉNS!\nVocê ganhou",
+		"message_tryWin": "OBRIGADO POR JOGAR!\nVocê poderia ter ganho",
+		"message_anonymous_tryWin": "OBRIGADO POR JOGAR!\nVocê poderia ter ganho",
+		"message_close": "OK",
+		"meter_division": " | ",
+		"button_exit": "SAIR",
+		"error_button_exit": "SAIR",
+		"warning_button_continue": "CONTINUAR \nJOGANDO",
+		"warning_button_exitGame": "SAIR",
+		"warning_title": "AVISO",
+		"error_title": "ERRO",
+		"win_up_to":"GANHE ATÉ",
+		"tutorial_title":"COMO JOGAR",
+		"tutorial": {
+			"WLA": {
+				"tutorial_00":"Clique/toque nos ovos para revelar pintinhos, cada um com o SEU NÚMERO e um valor do prêmio.",
+				"tutorial_01":"Clique/toque nas galinhas para revelar suéteres tricotados, cada um com um NÚMERO DA SORTE.",
+				"tutorial_02":"Se o SEU NÚMERO for igual a um NÚMERO DA SORTE, você ganha o valor do prêmio do SEU NÚMERO.",
+				"tutorial_03":"Se encontrar um pintinho com prêmio instantâneo, você ganha o valor do prêmio do pintinho com prêmio instantâneo.",
+				"tutorial_04":"Se você encontrar um pintinho com 2x ou 5x, ganha respectivamente 2 ou 5 vezes o valor do prêmio do pintinho!"
+			},
+			"Commercial": {
+				"tutorial_00":"Selecione cada ovo para revelar pintinhos com SEU NÚMERO e valores do prêmio.",
+				"tutorial_01":"Selecione cada galinha para revelar um suéter com um NÚMERO DA SORTE.",
+				"tutorial_02":"Se o SEU NÚMERO for igual a um NÚMERO DA SORTE, você ganha o valor do prêmio do SEU NÚMERO.",
+				"tutorial_03":"Encontre um pintinho com prêmio instantâneo para ganhar o valor do prêmio do pintinho com prêmio instantâneo.",
+				"tutorial_04":"Encontre um pintinho com 2x ou 5x para ganhar respectivamente 2 ou 5 vezes o valor do prêmio do pintinho!"
+			}
+		},
+		"your_number":"SEUS NÚMEROS",
+		"lucy_number":"NÚMEROS DA SORTE",
+		"buttonClose": "X",
+		"prizeLevel": "Nível do Prêmio",
+        "prizeValue": "Valor do Prêmio",
+		"paytableWager": "Custo do Bilhete: "
+	}
+}

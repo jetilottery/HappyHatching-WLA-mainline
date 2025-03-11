@@ -1,0 +1,91 @@
+﻿{
+	"version": "1-30-2018 11:40AM Happy Hatching fr_ca_default SM",
+	"audioLoader": {
+		"yes": "Oui",
+		"no": "Non",
+		"confirm": "Activer le son?"
+	},
+    "Paytable": {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "varie de {@minRTP} % à {@maxRTP} %",
+		"hardMinRTP": "85,00",
+		"hardMaxRTP": "93,00",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme {RTP}."
+    },
+	"title": "Happy Hatching",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Comment jouer",
+			"payTable": "Table de paiement",
+			"price": "Prix",
+			"stake": "Mise",
+			"balance": "Solde"
+		},
+		"Commercial": {
+			"howToPlay": "Comment jouer",
+			"payTable": "Table de paiement",
+			"price": "Prix",
+			"stake": "Mise",
+			"balance": "Solde"
+		},
+		"audio": {
+			"on": "Activé",
+			"off": "Désactivé",
+			"sound": "Son"
+		}
+	},
+	"Game": {
+		"demo": "ESSAYER",
+		"button_play": "JOUER",
+		"button_buy": "ACHETER",
+		"button_try": "ESSAYER",
+		"button_continue": "CONTINUER",
+		"button_move2moneyGame": "MODE \nARGENT RÉEL",
+		"meter_wager": "Coût du billet",
+		"wager": "COÛT DU BILLET",
+		"balance": "Solde",
+		"wins": "Gain",
+		"wins_demo": "Gain fictif",
+		"button_autoPlay": "TOUT AFFICHER",
+		"button_stop": "ARRÊTER",
+		"button_playAgain":"JOUER DE NOUVEAU",
+		"button_MTMPlayAgain": "ESSAYER DE NOUVEAU",
+		"message_nonWin": "MEILLEURE CHANCE \nLA PROCHAINE FOIS",
+		"message_buyWin": "FÉLICITATIONS!\nVous avez gagné",
+		"message_tryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+		"message_anonymous_tryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+		"message_close": "OK",
+		"meter_division": " | ",
+		"button_exit": "QUITTER",
+		"error_button_exit": "QUITTER",
+		"warning_button_continue": "CONTINUER \nÀ JOUER",
+		"warning_button_exitGame": "QUITTER",
+		"warning_title": "AVERTISSEMENT",
+		"error_title": "ERREUR",
+		"win_up_to":"GAGNEZ JUSQU’À",
+		"tutorial_title":"COMMENT JOUER",
+		"tutorial": {
+			"WLA": {
+				"tutorial_00":"Appuyez sur les œufs pour découvrir des poussins, chacun portant VOTRE NUMÉRO et un lot.",
+				"tutorial_01":"Appuyez sur les poules pour découvrir des tricots, chacun portant un NUMÉRO CHANCEUX.",
+				"tutorial_02":"Si VOTRE NUMÉRO est identique à un NUMÉRO CHANCEUX, vous gagnez le lot associé à VOTRE NUMÉRO.",
+				"tutorial_03":"Si vous trouvez un poussin avec un lot instantané, vous gagnez le lot instantané associé à ce poussin.",
+				"tutorial_04":"Si vous trouvez un poussin avec un multiplicateur de 2 ou 5, vous gagnez respectivement 2 ou 5 fois le lot associé à ce poussin!"
+			},
+			"Commercial": {
+				"tutorial_00":"Appuyez sur chaque œuf pour faire apparaître VOTRE NUMÉRO et le lot correspondant.",
+				"tutorial_01":"Appuyez sur chaque poule pour faire apparaître un tricot avec un NUMÉRO CHANCEUX.",
+				"tutorial_02":"Si VOTRE NUMÉRO est identique à un NUMÉRO CHANCEUX, vous gagnez le lot associé à VOTRE NUMÉRO.",
+				"tutorial_03":"Trouvez un poussin avec un lot instantané et gagnez le lot instantané associé à ce poussin.",
+				"tutorial_04":"Trouvez un poussin avec un multiplicateur de 2 ou 5 et gagnez respectivement 2 ou 5 fois le lot associé à ce poussin!"
+			}
+		},
+		"your_number":"VOS NUMÉROS",
+		"lucy_number":"NUMÉROS CHANCEUX",
+		"buttonClose": "X",
+		"prizeLevel": "Niveau du lot",
+        "prizeValue": "Valeur du lot",
+		"paytableWager": "Coût du billet : "
+	}
+}

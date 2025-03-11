@@ -1,0 +1,75 @@
+{
+	"version": "9.18.2017-Default NL",
+	"audioLoader": {
+		"yes": "Ja",
+		"no": "Nee",
+		"confirm": "Wil je geluid?"
+	},
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "{@minRTP}% tot {@maxRTP}%"
+	},
+	"title": "Happy Hatching",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Hoe spelen?",
+			"payTable": "Wat kan je winnen?",
+			"price": "Inzet",
+			"stake": "Inzet",
+			"balance": "Balans"
+		},
+		"Commercial": {
+			"howToPlay": "Hoe spelen?",
+			"payTable": "Wat kan je winnen?",
+			"price": "Inzet",
+			"stake": "Inzet",
+			"balance": "Balans"
+		},
+		"audio": {
+			"on": "Aan",
+			"off": "Uit",
+			"sound": "Geluid"
+		}
+	},
+	"Game": {
+		"demo": "DEMO ",
+		"button_play": "PLAY",
+		"button_buy": "KOPEN",
+		"button_try": "DEMO",
+		"button_continue": "DOORGAAN",
+		"button_move2moneyGame": "KOPEN",
+		"meter_wager": "Inzet",
+		"wager": "INZET",
+		"balance": "Balance",
+		"wins": "Winst",
+		"wins_demo": "Demo",
+		"button_autoPlay": "AUTOPLAY",
+		"button_stop": "STOP",
+		"button_playAgain": "KOPEN",
+		"button_MTMPlayAgain": "DEMO",
+		"message_nonWin": "Helaas geen winst.",
+		"message_buyWin": "Proficiat!\nJe wint",
+		"message_tryWin": "Een demospel geeft \ngeen recht op winst.",
+		"message_anonymous_tryWin": "Een demospel geeft \ngeen recht op winst.",
+		"message_close": "SLUIT",
+		"meter_division": " | ",
+		"button_exit": "VERLATEN",
+		"error_button_exit": "VERLATEN",
+		"warning_button_continue": "DOORGAAN",
+		"warning_button_exitGame": "VERLATEN",
+		"warning_title": " ",
+		"error_title": "ERROR",
+		"win_up_to": "WIN TOT",
+		"tutorial_title": "HOE SPELEN?",
+		"tutorial": {
+		"tutorial_00": "Selecteer de eieren, en ontdek de ”Winnende nummers” en de waarde van de prijs.",
+		"tutorial_01": "Selecteer de breiende kippen en ontdek ”Je nummers”.",
+		"tutorial_02": "Als een of meerdere van ”Je nummers” overeenkomen met de ”Winnende nummers”, dan win je het bijbehorende bedrag.",
+		"tutorial_03": "Als je een wit kuiken ontdekt, dan win je het bijbehorende bedrag.",
+		"tutorial_04": "Vind je een kuiken met de vermelding “2x” of “5x”? Dan win je het bijbehorende bedrag evenveel keer!"
+		},
+		"your_number": "WINNENDE NUMMERS",
+		"lucy_number": "JE NUMMERS",
+		"button_close": "X"
+	}
+}

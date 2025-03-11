@@ -1,0 +1,91 @@
+{
+  "version": "1-30-2018 11:40AM Happy Hatching sv_default SM",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nej",
+    "confirm": "Vill du ha ljud?"
+  },
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "från {@minRTP} % till {@maxRTP} %",
+    "hardMinRTP": "85,00",
+    "hardMaxRTP": "93,00",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "För det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}."
+  },
+  "title": "Happy Hatching",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Så här spelar du",
+      "payTable": "Pristabell",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo"
+    },
+    "Commercial": {
+      "howToPlay": "Så här spelar du",
+      "payTable": "Vinsttabell",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo"
+    },
+    "audio": {
+      "on": "På",
+      "off": "Av",
+      "sound": "Ljud"
+    }
+  },
+  "Game": {
+    "demo": "TESTA",
+    "button_play": "SPELA",
+    "button_buy": "KÖP",
+    "button_try": "TESTA",
+    "button_continue": "FORTSÄTT",
+    "button_move2moneyGame": "FLYTTA TILL\nPENGAR ",
+    "meter_wager": "Lottkostnad",
+    "wager": "LOTTKOSTNAD",
+    "balance": "Saldo",
+    "wins": "Vinst",
+    "wins_demo": "Demovinst",
+    "button_autoPlay": "AVSLÖJA ALLA",
+    "button_stop": "STOPP",
+    "button_playAgain": "SPELA IGEN",
+    "button_MTMPlayAgain": "FÖRSÖK IGEN",
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_buyWin": "GRATTIS!\nDu har vunnit",
+    "message_tryWin": "TACK FÖR ATT DU SPELAR!\nDu kunde ha vunnit",
+    "message_anonymous_tryWin": "TACK FÖR ATT DU SPELAR!\nDu kunde ha vunnit",
+    "message_close": "OK",
+    "meter_division": " | ",
+    "button_exit": "LÄMNA",
+    "error_button_exit": "LÄMNA",
+    "warning_button_continue": "FORTSÄTT\nSPELA",
+    "warning_button_exitGame": "LÄMNA",
+    "warning_title": "VARNING",
+    "error_title": "FEL",
+    "win_up_to": "VINN UPP TILL",
+    "tutorial_title": "SÅ HÄR SPELAR DU",
+    "tutorial": {
+      "WLA": {
+        "tutorial_00": "Klicka/tryck på äggen för att avslöja små kycklingar, var och en med ett av DINA NUMMER och ett vinstvärde.",
+        "tutorial_01": "Klicka/tryck på hönorna för att avslöja stickade tröjor, var och en med ett LYCKONUMMER.",
+        "tutorial_02": "Om ett av DINA NUMMER matchar ett LYCKONUMMER, vinner du DITT NUMMERS vinstvärde.",
+        "tutorial_03": "Om du hittar en direktvinstkyckling, så vinner du direktvinstkycklingens vinstvärde.",
+        "tutorial_04": "Om du hittar en kyckling med 2x eller 5x på magen, vinner du 2 eller 5 gånger kycklingens vinstvärde!"
+      },
+      "Commercial": {
+        "tutorial_00": "Välj varje ägg för att avslöja kycklingar med DINA NUMMER och vinstvärden.",
+        "tutorial_01": "Välj varje höna för att avslöja en tröja med ett LYCKONUMMER.",
+        "tutorial_02": "Om DITT NUMMER matchar ett LYCKONUMMER, vinner du DITT NUMMERS vinstvärde.",
+        "tutorial_03": "Hitta en direktvinstkyckling och vinn direktvinstkycklingens vinstvärde.",
+        "tutorial_04": "Hitta en kyckling med 2x eller 5x på magen och vinn 2 eller 5 gånger kycklingens vinstvärde!"
+      }
+    },
+    "your_number": "DINA NUMMER",
+    "lucy_number": "LYCKONUMMER",
+    "buttonClose": "X",
+    "prizeLevel": "Vinstnivå",
+    "prizeValue": "Vinstvärde",
+    "paytableWager": "Lottkostnad: "
+  }
+}

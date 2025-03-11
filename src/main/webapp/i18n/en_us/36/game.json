@@ -1,0 +1,97 @@
+{
+	"version": "1-30-2018 11:40AM Happy Hatching en_us_36 SM",
+	"audioLoader": {
+		"yes": "Yes",
+		"no": "No",
+		"confirm": "Would you like sound?"
+	},
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+		"hardMinRTP": "85.00",
+		"hardMaxRTP": "93.00",
+        "paybackTitle": "Expected Payback",
+		"paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+		"availablePrices": "Available Price Points:{prices}"
+    },
+	"title": "Happy Hatching",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "How to Play",
+			"payTable": "Paytable",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance",
+			"prizeDivision": "Prize Division",
+			"prizeValue": "Prize Value",
+			"approximatePrize": "Approximate Prizes Remaining",
+			"oddsPerPlay": "Odds Per Play",
+			"overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play"
+		},
+		"Commercial": {
+			"howToPlay": "How to Play",
+			"payTable": "Paytable",
+			"price": "Price",
+			"stake": "Stake",
+			"balance": "Balance"
+		},
+		"audio": {
+			"on": "On",
+			"off": "Off",
+			"sound": "Sound"
+		}
+	},
+	"Game": {
+		"demo": "TRY",
+		"button_play": "PLAY",
+		"button_buy": "BUY",
+		"button_try": "TRY",
+		"button_continue": "CONTINUE",
+		"button_move2moneyGame": "MOVE TO \nMONEY ",
+		"meter_wager": "TICKET COST",
+		"wager": "TICKET COST",
+		"balance": "BALANCE",
+		"wins": "WIN",
+		"wins_demo": "DEMO WIN",
+		"button_autoPlay": "REVEAL ALL",
+		"button_stop": "STOP",
+		"button_playAgain":"PLAY AGAIN",
+		"button_MTMPlayAgain": "TRY AGAIN",
+		"message_nonWin": "BETTER LUCK \nNEXT TIME",
+		"message_buyWin": "Congratulations!\nYou have won",
+		"message_tryWin": "Thanks for playing!\nYou could have won",
+		"message_anonymous_tryWin": "Thanks for playing!\nYou could have won",
+		"message_close": "CLOSE",
+		"meter_division": " | ",
+		"button_exit": "EXIT",
+		"error_button_exit": "EXIT",
+		"warning_button_continue": "KEEP \nPLAYING",
+		"warning_button_exitGame": "EXIT",
+		"warning_title": " ",
+		"error_title": "ERROR",
+		"win_up_to":"WIN UP TO",
+		"tutorial_title":"HOW TO PLAY",
+		"tutorial": {
+			"WLA": {
+				"tutorial_00":"Click/tap the eggs to reveal little chicks, each with a YOUR NUMBER and a prize value.",
+				"tutorial_01":"Click/tap the hens to reveal knitted sweaters, each with a LUCKY NUMBER.",
+				"tutorial_02":"If a YOUR NUMBER matches a LUCKY NUMBER, you win the YOUR NUMBER's prize value.",
+				"tutorial_03":"If you find an instant win chick, you win the instant win chick's prize value.",
+				"tutorial_04":"If you find a chick with a 2x or a 5x, you win 2 or 5 times the chick's prize value respectively!"
+			},
+			"Commercial": {
+				"tutorial_00":"Select each egg to reveal chicks with YOUR NUMBER and prize values.",
+				"tutorial_01":"Select each hen to reveal a sweater with a LUCKY NUMBER.",
+				"tutorial_02":"If YOUR NUMBER matches a LUCKY NUMBER, you win YOUR NUMBER's prize value.",
+				"tutorial_03":"Find an instant win chick to win the instant win chick's prize value.",
+				"tutorial_04":"Find a 2x or a 5x chick to win 2 or 5 times that chick's prize value respectively!"
+			}
+		},
+		"your_number":"YOUR NUMBERS",
+		"lucy_number":"LUCKY NUMBERS",
+		"buttonClose": "X",
+		"prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+		"paytableWager": "Ticket Cost: "
+	}
+}

@@ -1,0 +1,97 @@
+﻿{
+	"version": "1-30-2018 11:40AM Happy Hatching en_default SM",
+	"audioLoader": {
+		"yes": "Tak",
+		"no": "Nie",
+		"confirm": "Czy włączyć dźwięk?"
+	},
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "od {@minRTP}% do {@maxRTP}%",
+		"hardMinRTP": "85,00",
+		"hardMaxRTP": "93,00",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, oczekiwany teoretycznie zwrot tej gry wynosi {RTP}."
+    },
+	"title": "KURKI",
+	"MenuCommand": {
+		"WLA": {
+			"howToPlay": "Zasady gry",
+			"payTable": "Tabela wygranych",
+			"price": "Cena",
+			"stake": "Stawka",
+			"balance": "Saldo",
+			"prizeDivision": "Stopień wygranej",
+			"prizeValue": "Wartość wygranej",
+			"approximatePrize": "Pozostało do wygrania",
+			"oddsPerPlay": "Szansa na wygraną",
+			"overAllOdds": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {oddNum}.",
+			"availablePrices": "Dostępne stawki: {prices}"
+		},
+		"Commercial": {
+			"howToPlay": "Zasady gry",
+			"payTable": "Tabela wygranych",
+			"price": "Cena",
+			"stake": "Stawka",
+			"balance": "Saldo"
+		},
+		"audio": {
+			"on": "Wł.",
+			"off": "Wył.",
+			"sound": "Dźwięk"
+		}
+	},
+	"Game": {
+		"demo": "DEMO",
+		"button_play": "GRAJ",
+		"button_buy": "PŁACĘ",
+		"button_try": "DEMO",
+		"button_continue": "KONTYNUUJ",
+		"button_move2moneyGame": "GRAJ ZA PIENIĄDZE ",
+		"meter_wager": "OPŁATA ZA LOS",
+		"wager": "OPŁATA ZA LOS",
+		"balance": "SALDO",
+		"wins": "WYGRANA",
+		"wins_demo": "WYGRANA DEMO",
+		"button_autoPlay": "AUTO",
+		"button_stop": "STOP",
+		"button_playAgain":"GRAJ PONOWNIE",
+		"button_MTMPlayAgain": "SPRÓBUJ PONOWNIE",
+		"message_nonWin": "POWODZENIA NASTĘPNYM RAZEM",
+		"message_buyWin": "GRATULACJE!\nTwoja Wygrana to:",
+		"message_tryWin": "DZIĘKUJEMY ZA GRĘ! Można było wygrać",
+		"message_anonymous_tryWin": "DZIĘKUJEMY ZA GRĘ! Można było wygrać",
+		"message_close": "OK",
+		"meter_division": " | ",
+		"button_exit": "WYJDŹ",
+		"error_button_exit": "WYJDŹ",
+		"warning_button_continue": "KONTYNUUJ GRĘ",
+		"warning_button_exitGame": "WYJDŹ",
+		"warning_title": "OSTRZEŻENIE",
+		"error_title": "BŁĄD",
+		"win_up_to":"WYGRAJ DO",
+		"tutorial_title":"ZASADY GRY",
+		"tutorial": {
+			"WLA": {
+				"tutorial_00":"Kliknij na jajko, aby odkryć kurczaka z TWOJĄ LICZBĄ i wartością wygranej.",
+				"tutorial_01":"Kliknij na kury, aby odkryć SZCZĘŚLIWE LICZBY.",
+				"tutorial_02":"Jeśli jakakolwiek z TWOICH LICZB jest taka sama jak któraś ze SZCZĘŚLIWYCH LICZB, to wygrywasz przypisaną do nich wartość wygranej.",
+				"tutorial_03":"Jeśli znajdziesz kurczaka Z NATYCHMIASTOWĄ WYGRANĄ, automatycznie wygrywasz przypisaną do niego wartość wygranej.",
+				"tutorial_04":"Jeśli znajdziesz kurczaka z mnożnikiem 2x lub 5x, wygrywasz odpowiednio 2- lub 5-krotność wartości wygranej przypisanej do Twojej liczby."
+			},
+			"Commercial": {
+				"tutorial_00":"Kliknij na jajko, aby odkryć kurczaka z TWOJĄ LICZBĄ i wartością wygranej.",
+				"tutorial_01":"Kliknij na kury, aby odkryć SZCZĘŚLIWE LICZBY.",
+				"tutorial_02":"Jeśli jakakolwiek z TWOICH LICZB jest taka sama jak któraś ze SZCZĘŚLIWYCH LICZB, to wygrywasz przypisaną do nich wartość wygranej.",
+				"tutorial_03":"Jeśli znajdziesz kurczaka Z NATYCHMIASTOWĄ WYGRANĄ, automatycznie wygrywasz przypisaną do niego wartość wygranej.",
+				"tutorial_04":"Jeśli znajdziesz kurczaka z mnożnikiem 2x lub 5x, wygrywasz odpowiednio 2- lub 5-krotność wartości wygranej przypisanej do Twojej liczby."
+			}
+		},
+		"your_number":"TWOJE LICZBY",
+		"lucy_number":"SZCZĘŚLIWE LICZBY",
+		"buttonClose": "X",
+		"prizeLevel": "Stopień wygranej",
+        "prizeValue": "Wartość wygranej",
+		"paytableWager": "Opłata za los: "
+	}
+}

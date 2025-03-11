@@ -1,0 +1,91 @@
+{
+  "version": "1-30-2018 11:40AM Happy Hatching it_default SM",
+  "audioLoader": {
+    "yes": "Sì",
+    "no": "No",
+    "confirm": "Desideri attivare l'audio?"
+  },
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "da {@minRTP}% a {@maxRTP}%",
+    "hardMinRTP": "85,00",
+    "hardMaxRTP": "93,00",
+    "paybackTitle": "Ritorno previsto",
+    "paybackBody": "Il ritorno teorico a lungo termine previsto per questo gioco è pari a {RTP}."
+  },
+  "title": "Happy Hatching",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Come si gioca",
+      "payTable": "Tabella dei premi",
+      "price": "Prezzo",
+      "stake": "Puntata",
+      "balance": "Saldo"
+    },
+    "Commercial": {
+      "howToPlay": "Come si gioca",
+      "payTable": "Tabella dei pagamenti",
+      "price": "Prezzo",
+      "stake": "Puntata",
+      "balance": "Saldo"
+    },
+    "audio": {
+      "on": "On",
+      "off": "Off",
+      "sound": "Audio"
+    }
+  },
+  "Game": {
+    "demo": "PROVA",
+    "button_play": "GIOCA",
+    "button_buy": "ACQUISTA",
+    "button_try": "PROVA",
+    "button_continue": "CONTINUA",
+    "button_move2moneyGame": "GIOCA CON\nDENARO REALE ",
+    "meter_wager": "Prezzo Biglietto",
+    "wager": "PREZZO BIGLIETTO",
+    "balance": "Saldo",
+    "wins": "Vincita",
+    "wins_demo": "Vincita Demo",
+    "button_autoPlay": "MOSTRA TUTTI",
+    "button_stop": "STOP",
+    "button_playAgain": "GIOCA ANCORA",
+    "button_MTMPlayAgain": "RIPROVA",
+    "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+    "message_buyWin": "CONGRATULAZIONI!\nHai vinto",
+    "message_tryWin": "GRAZIE PER AVER GIOCATO CON NOI!\nAvresti potuto vincere",
+    "message_anonymous_tryWin": "GRAZIE PER AVER GIOCATO CON NOI!\nAvresti potuto vincere",
+    "message_close": "OK",
+    "meter_division": " | ",
+    "button_exit": "ESCI",
+    "error_button_exit": "ESCI",
+    "warning_button_continue": "CONTINUA\nA GIOCARE",
+    "warning_button_exitGame": "ESCI",
+    "warning_title": "ATTENZIONE",
+    "error_title": "ERRORE",
+    "win_up_to": "VINCI FINO A",
+    "tutorial_title": "COME SI GIOCA",
+    "tutorial": {
+      "WLA": {
+        "tutorial_00": "Clicca/tocca le uova per rivelare i pulcini, ognuno dei quali ha un TUO NUMERO e un premio.",
+        "tutorial_01": "Clicca/tocca le galline per rivelare i maglioni, ognuno dei quali ha un NUMERO FORTUNATO.",
+        "tutorial_02": "Se uno dei TUOI NUMERI corrisponde a un NUMERO FORTUNATO, vinci il premio relativo al TUO NUMERO.",
+        "tutorial_03": "Se trovi un pulcino della vincita istantanea, vinci il premio istantaneo corrispondente.",
+        "tutorial_04": "Se trovi un pulcino con un 2x o un 5x, vinci rispettivamente 2 o 5 volte il premio del pulcino."
+      },
+      "Commercial": {
+        "tutorial_00": "Seleziona le uova per rivelare i pulcini con i TUOI NUMERI e i premi.",
+        "tutorial_01": "Seleziona le galline per rivelare i maglioni con un NUMERO FORTUNATO.",
+        "tutorial_02": "Se il TUO NUMERO corrisponde a un NUMERO FORTUNATO, vinci il premio del TUO NUMERO.",
+        "tutorial_03": "Se trovi un pulcino della vincita istantanea, vinci il premio istantaneo corrispondente.",
+        "tutorial_04": "Se trovi un pulcino con un 2x o un 5x, vinci rispettivamente 2 o 5 volte il premio di tale pulcino."
+      }
+    },
+    "your_number": "I TUOI NUMERI",
+    "lucy_number": "NUMERI FORTUNATI",
+    "buttonClose": "X",
+    "prizeLevel": "Livello del Premio",
+    "prizeValue": "Valore del Premio",
+    "paytableWager": "Prezzo Biglietto: "
+  }
+}

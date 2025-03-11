@@ -1,0 +1,91 @@
+{
+  "version": "1-30-2018 11:40AM Happy Hatching default_default SM",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nei",
+    "confirm": "Vil du ha lyd?"
+  },
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "fra {@minRTP} % til {@maxRTP} %",
+    "hardMinRTP": "85.00",
+    "hardMaxRTP": "93.00",
+    "paybackTitle": "Premieandel",
+    "paybackBody": "{RTP}."
+  },
+  "title": "Hønsehuset",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Slik spiller du",
+      "payTable": "Premieoversikt",
+      "price": "Pris",
+      "stake": "Pris",
+      "balance": "Saldo"
+    },
+    "Commercial": {
+      "howToPlay": "Slik spiller du",
+      "payTable": "Premieoversikt",
+      "price": "Pris",
+      "stake": "Pris",
+      "balance": "Saldo"
+    },
+    "audio": {
+      "on": "På",
+      "off": "Av",
+      "sound": "Lyd"
+    }
+  },
+  "Game": {
+    "demo": "PRØVESPILL",
+    "button_play": "START",
+    "button_buy": "KJØP",
+    "button_try": "PRØVESPILL",
+    "button_continue": "FORTSETT",
+    "button_move2moneyGame": "SPILL FOR\nEKTE PENGER",
+    "meter_wager": "Pris",
+    "wager": "Pris",
+    "balance": "Saldo",
+    "wins": "Premie",
+    "wins_demo": "Premie prøvespill",
+    "button_autoPlay": "SKRAP ALT",
+    "button_stop": "STOPP",
+    "button_playAgain": "KJØP",
+    "button_MTMPlayAgain": "PRØVESPILL",
+    "message_nonWin": "BEKLAGER\nINGEN PREMIE",
+    "message_buyWin": "GRATULERER!\nDu vant",
+    "message_tryWin": "PRØVESPILL!\nDette var et prøvespill",
+    "message_anonymous_tryWin": "PRØVESPILL!\nDette var et prøvespill",
+    "message_close": "OK",
+    "meter_division": " | ",
+    "button_exit": "LUKK",
+    "error_button_exit": "LUKK",
+    "warning_button_continue": "FORTSETT\nSPILLET",
+    "warning_button_exitGame": "LUKK",
+    "warning_title": "ADVARSEL",
+    "error_title": "FEIL",
+    "win_up_to": "TOPPREMIE",
+    "tutorial_title": "SLIK SPILLER DU",
+    "tutorial": {
+      "WLA": {
+        "tutorial_00": "Trykk på eggene for å klekke kyllingene, avdekke DINE TALL og tilhørende premie.",
+        "tutorial_01": "Trykk på hønene for å strikke små gensere og avdekke LYKKETALL.",
+        "tutorial_02": "Hvis et av DINE TALL matcher med et LYKKETALL, vinner du tilhørende premie.",
+        "tutorial_03": "Klekkes en hvit kylling vinner du tilhørende premie.",
+        "tutorial_04": "Hvis du klekker en kylling som viser 2x eller 5x, vinner du  2 eller 5 ganger tilhørende premie!"
+      },
+      "Commercial": {
+        "tutorial_00": "Trykk på eggene for å klekke kyllingene, avdekke DINE TALL og tilhørende premie.",
+        "tutorial_01": "Trykk på hønene for å strikke små gensere og avdekke LYKKETALL.",
+        "tutorial_02": "Hvis et av DINE TALL matcher med et LYKKETALL, vinner du tilhørende premie.",
+        "tutorial_03": "Klekkes en hvit kylling vinner du tilhørende premie.",
+        "tutorial_04": "Hvis du klekker en kylling som viser 2x eller 5x, vinner du  2 eller 5 ganger tilhørende premie!"
+      }
+    },
+    "your_number": "DINE TALL",
+    "lucy_number": "LYKKETALL",
+    "buttonClose": "X",
+    "prizeLevel": "Premie",
+    "prizeValue": "Premie",
+    "paytableWager": "Pris: "
+  }
+}
